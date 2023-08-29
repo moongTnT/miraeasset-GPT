@@ -3,32 +3,32 @@
 		{
 			"title": "Software as a Service (SaaS)",
 			"description": "Companies that are involved in licensing and delivery of software over the internet on a subscription basis which is sometimes called as “on-demand software”.",
-			"title_kr": "소프트웨어 서비스 (SaaS)",
-			"description_kr": "가끔 \"온디맨드 소프트웨어\"로 불리는 인터넷을 통한 소프트웨어의 라이선싱 및 배송에 참여하는 회사들입니다. 이러한 회사들은 구독 기반으로 소프트웨어를 제공합니다."
+			"title_kr": "SaaS: 소프트웨어 서비스를 제공하는 기업들의 주식",
+			"description_kr": "인터넷을 통해 구독 기반으로 소프트웨어를 라이선스하고 제공하는 기업들."
 		},
 		{
 			"title": "Platform as a Service (PaaS)",
 			"description": "Companies that are involved in providing a platform for creating software applications which are delivered over the internet.",
 			"title_kr": "플랫폼 서비스 (PaaS)",
-			"description_kr": "인터넷을 통해 제공되는 소프트웨어 응용 프로그램을 생성하기 위한 플랫폼을 제공하는 회사들이 있습니다."
+			"description_kr": "인터넷을 통해 소프트웨어 애플리케이션을 개발하는 플랫폼 제공하는 기업들."
 		},
 		{
 			"title": "Infrastructure as a Service(IaaS)",
 			"description": "Companies that are involved in providing virtualized computing resources over the internet. The services include shared resources like shared storage, shared servers, storage pool etc.",
-			"title_kr": "인프라스트럭처 서비스(IaaS)",
-			"description_kr": "인터넷을 통해 가상화된 컴퓨팅 자원을 제공하는 기업들입니다. 이 서비스에는 공유 스토리지, 공유 서버, 스토리지 풀 등이 포함됩니다."
+			"title_kr": "인프라스트럭처 서비스(IaaS)는 중요한 서비스입니다.",
+			"description_kr": "클라우드 컴퓨팅 서비스 제공 (공유 리소스, 가상화)"
 		},
 		{
 			"title": "Data Center REITs",
 			"description": "Companies that are involved in owning and managing facilities that customers use to safely store data and offer a range of products and services to help keep servers and data safe, including providing uninterruptable power supplies, air-cooled chillers and physical security.",
-			"title_kr": "데이터 센터 투자 신탁(REITs)",
-			"description_kr": "고객이 데이터를 안전하게 저장하는 데 사용하는 시설을 소유하고 관리하는 기업들은 서버와 데이터를 안전하게 유지하는 데 도움이 되는 다양한 제품과 서비스를 제공합니다. 이에는 비중단 전원 공급장치, 공기 냉각 장치 및 물리적 보안을 포함합니다."
+			"title_kr": "데이터 센터 부동산 투자 신탁 (REITs)",
+			"description_kr": "데이터 보관 및 관리 시설 소유 및 운영, 무정전 전원 공급장치, 냉각 장치, 물리적 보안 등 데이터 안전 관련 제공"
 		},
 		{
 			"title": "Cloud and Edge Computing Infrastructure/Cloud Infrastructure Components",
 			"description": "Companies involved in manufacturing or distributing hardware components like chips that are built into servers, specialized network switches and routers etc. used in cloud and edge computing activities.",
-			"title_kr": "클라우드 및 엣지 컴퓨팅 인프라/클라우드 인프라 구성 요소",
-			"description_kr": "클라우드 및 엣지 컴퓨팅 활동에 사용되는 서버, 특수 네트워크 스위치 및 라우터 등에 내장된 칩과 같은 하드웨어 구성 요소를 제조 또는 유통하는 회사들이 관련되어 있습니다."
+			"title_kr": "클라우드와 엣지 컴퓨팅 인프라/클라우드 인프라 구성요소",
+			"description_kr": "클라우드 및 엣지 컴퓨팅에 사용되는 서버, 특수 네트워크 스위치 및 라우터 등 하드웨어 컴포넌트를 제조 또는 공급하는 기업들."
 		}
 	]
 }
