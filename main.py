@@ -1,4 +1,9 @@
 from fastapi import FastAPI
+
+from core.gpt_semantic_search import get_vectordb, get_filter, get_similar_symbols
+
+from core.financial_filtering import get_lowest_PBR_stks, get_momentums
+
 from starlette.middleware.cors import CORSMiddleware
 import uvicorn
 
@@ -14,47 +19,62 @@ app.add_middleware(
     allow_headers=["*"],
 )
 
+import json
+
 @app.get("/stk_filtering")
 def get_stk_filtering(etf_tkr: str = "AIQ"):
+    
+    vectordb = get_vectordb()
+    
+    filter_list = get_filter(etf_tkr=etf_tkr)
+    
+    with open(f'etf_subcategory_infos/{etf_tkr}.json', 'r') as f:
+        
+        json_data = json.load(f)
+        
+    for i, subcateogry in enumerate(json_data['subcategory_lists']):
+        
+        keyword = subcateogry["description"]
+        
+        similar_stk_list = get_similar_symbols(
+            vectordb=vectordb,
+            keyword=keyword,
+            filter_list=filter_list,
+            k=5,
+        )
+        
+        subcateogry['stk_list'] = similar_stk_list
+        
+        json_data['subcategory_lists'][i] = subcateogry
+        
+    
+    
+    docs_list = vectordb.get(where={'$or': filter_list})
 
-    common_issues = {
-        "title": "dummy_title",
-        "content": "dummy_content"
+    lowest_PBR_stks_tuple_list = get_lowest_PBR_stks(docs_list=docs_list)
+    
+    value_dict = {
+        "title": "잠재가치 높은",
+        "description": "내재 가치 대비 저평가되어 있는 기업들입니다."
     }
-
-    unstructured_categories = [
-        {
-            "title": "세계 경제구조 변화로 수혜받는 '로보틱스' 산업",
-            "describe": "세계적인 인구구조 변화 AI의 결합으로 다양한 분    야에서 활용도 상승",
-            "stks": ["엔비디아", "애플", "TSMC", "AMD"]
-        },
-        {
-            "title": "생성형 AI로 탄력 받은 인공지능 산업",
-            "describe": "ChatGPT 등 생성형 AI가 일상으로 빠르게 침투하면서 AI발전 가속화",
-            "stks": ["애플", "마이크로소프트", "구글", "아마존"]
-        }
-    ]
-
-    structured_categories = [
-        {
-            "title": "모멘텀 좋은",
-            "stks": ["엔비디아", "아마존"],
-        },
-        {
-            "title": "안정성 높은",
-            "stks": ["엔비디아", "아마존"],
-        },
-        {
-            "title": "위험도 낮은",
-            "stks": ["TSMC", "아마존"],
-        },
-    ]
-
-    return {
-        "common_issues": common_issues,
-        "unstructured_categories": unstructured_categories,
-        "structured_categories": structured_categories
+    
+    value_dict["stk_list"] = [s[1] for s in lowest_PBR_stks_tuple_list]
+        
+    
+    
+    momentum_dict = {
+        "title": "꾸준히 우상향 하는",
+        "description": "모멘텀 좋은 기업들입니다."
     }
+    
+    momentum_tuple_list = get_momentums(filter_list=filter_list)
+    
+    momentum_dict["stk_list"] = [s[1] for s in momentum_tuple_list]
+    
+    
+    json_data['financial_filtering_lists'] = [value_dict, momentum_dict]
+        
+    return json_data
 
 if __name__ == "__main__":
     uvicorn.run(app, host="0.0.0.0", port=8000)

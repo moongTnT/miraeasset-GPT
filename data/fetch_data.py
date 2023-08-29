@@ -30,6 +30,7 @@ def with_db_connection(f):
     
     return with_db_connection_
 
+
 @with_db_connection
 def fetch_data_from_db(*args, **kwargs):
     """
@@ -43,3 +44,42 @@ def fetch_data_from_db(*args, **kwargs):
     cursor.execute(query)
     
     return cursor.fetchall()
+
+
+def fetch_theme_info(*args, **kwargs):
+    
+    sql = """
+    SELECT * FROM os_theme_info
+    """
+    
+    return fetch_data_from_db(query=sql)
+
+
+def fetch_pdf_info(*args, **kwargs):
+    
+    etf_tkr = kwargs.pop("etf_tkr")
+    
+    sql = f"""
+    SELECT pdf.child_stk_tkr, pdf.child_stk_name, stk.float_shares
+        FROM os_pdf_info pdf
+        INNER JOIN os_stk_info stk
+        ON pdf.child_stk_tkr=stk.stk_tkr
+        WHERE pdf.etf_tkr='{etf_tkr}'
+    """
+    
+    return fetch_data_from_db(query=sql)
+
+
+def fetch_stk_prices(*args, **kwargs):
+    
+    tickers = kwargs.pop("tickers")
+    start_date = kwargs.pop("start_date")
+    
+    sql = f"""
+        SELECT * FROM os_stk_price
+            WHERE stk_tkr in ({"'"+"','".join(tickers)+"'"})
+            AND date>=date({"'"+start_date+"'"})
+            ORDER BY stk_tkr, date
+    """
+    
+    return fetch_data_from_db(query=sql)

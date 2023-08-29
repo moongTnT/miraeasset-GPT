@@ -1,0 +1,24 @@
+{
+	"subcategory_lists": [
+		{
+			"title": "Connect physicians and patients digitally, facilitating a range of medical activities that include diagnosis, treatment, and medication management, as well as offering online pharmaceutical services, and/or providing internet healthcare platforms (“Telemedicine”)",
+			"description": "",
+			"title_kr": "의사와 환자를 디지털로 연결하여 진단, 치료, 약물 관리를 포함한 다양한 의료 활동을 원격으로 지원하며, 온라인 약물 서비스를 제공하거나 인터넷 건강 관리 플랫폼을 제공합니다 (\"원격 의료\")."
+		},
+		{
+			"title": "Collect, produce, utilize, and/or store data for healthcare related statistical and/or computational analyses, including artificial intelligence analyses and cloud-based analytics platforms (“Healthcare Analytics”)",
+			"description": "",
+			"title_kr": "의료 관련 통계 및 컴퓨팅 분석을 위해 데이터를 수집, 생성, 활용 및 저장하며, 인공 지능 분석 및 클라우드 기반 분석 플랫폼(\"의료 분석\")에서 사용합니다."
+		},
+		{
+			"title": "Develop healthcare devices which automatically transmit data and results to patients and/or physicians to assist in real-time, dynamic patient treatment and preventative care (“Connected Healthcare Devices”), and/or",
+			"description": "",
+			"title_kr": "실시간, 동적인 환자 치료 및 예방적 치료를 지원하기 위해 자동으로 데이터와 결과를 환자나 의사에게 전송하는 의료 기기를 개발하세요. (\"연결된 의료 기기\")"
+		},
+		{
+			"title": "Innovate healthcare provider management processes including patient intake, staffing solutions, revenue/billing cycle management, digital healthcare security, as well as doctor/hospital search, booking and/or rating services for patient use (“Administrative Digitization”)",
+			"description": "",
+			"title_kr": "환자 접수, 직원 고용 솔루션, 수익/청구 주기 관리, 디지털 의료 보안, 그리고 환자가 사용하는 의사/병원 검색, 예약 및/또는 평가 서비스를 포함한 혁신적인 의료 공급자 관리 프로세스를 개선하십시오. (\"행정 디지털화\")"
+		}
+	]
+}

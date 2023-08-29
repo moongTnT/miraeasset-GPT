@@ -1,0 +1,22 @@
+{
+	"subcategory_lists": [
+		{
+			"title": "Electric Vehicles (“EV”)",
+			"description": "companies that produce electric/hybrid vehicles, including cars, trucks, motorcycles/scooters, buses, and electric rail.",
+			"title_kr": "전기차 (EV)",
+			"description_kr": "전기/하이브리드 차량을 생산하는 회사들은 자동차, 트럭, 오토바이/스쿠터, 버스, 그리고 전기 기차를 포함합니다."
+		},
+		{
+			"title": "Electric Vehicle Components (“EVC”)",
+			"description": "companies that produce electric/hybrid vehicle components, including electric drivetrains, lithium-ion and other types of electric batteries, and fuel cells. In addition, companies that produce the chemicals and raw materials (including but not limited to lithium and cobalt) that comprise these electric/hybrid vehicle components are eligible for inclusion.",
+			"title_kr": "전기차 부품 (EVC)",
+			"description_kr": "전기/하이브리드 차량 구성품을 생산하는 회사들은, 전기 동력계, 리튬이온 및 기타 종류의 전기용 배터리, 그리고 연료 전지를 포함합니다. 또한, 이러한 전기/하이브리드 차량 구성품을 이루는 화학물질과 원자재(리튬 및 코발트를 포함하되 이에 국한되지 않음)을 생산하는 회사들도 포함 대상입니다."
+		},
+		{
+			"title": "Autonomous Vehicle Technology (“AVT”)",
+			"description": "companies that build autonomous vehicles and/or develop hardware and software that facilitates the development of autonomous vehicles, including sensors, mapping technology, artificial intelligence, Advanced Driver Assistance Systems, ride-share platforms, and network-connected services for transportation.",
+			"title_kr": "자율주행 차량 기술 (\"AVT\")",
+			"description_kr": "자율 주행 차량을 제조하거나 자율 주행 차량의 개발을 위한 하드웨어와 소프트웨어를 개발하는 회사들은 다음과 같은 기술들을 포함합니다: 센서, 지도 기술, 인공지능, 고급 운전자 보조 시스템, 라이드 쉐어 플랫폼, 그리고 교통을 위한 네트워크 연결 서비스."
+		}
+	]
+}

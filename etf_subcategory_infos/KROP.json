@@ -1,0 +1,28 @@
+{
+	"subcategory_lists": [
+		{
+			"title": "Precision Agriculture",
+			"description": "Technologies used to increase crop yields and reduce levels of traditional agricultural inputs (land, water, fertilizer, etc.) to grow crops more profitably/efficiently. Business activities include the development of Geographic Information System (“GIS”) software and hardware for GIS-based agriculture, precision weed control technologies, soil and water sensors, weather tracking, and satellite imaging",
+			"title_kr": "정밀 농업",
+			"description_kr": "수확량을 증가시키고 전통적인 농업 자원(토지, 물, 비료 등)의 수준을 줄이는 기술을 사용하여 더욱 유익하고 효율적으로 작물을 재배합니다. 비즈니스 활동에는 지리 정보 시스템(GIS) 기반 농업을 위한 소프트웨어 및 하드웨어 개발, 정밀 제초 기술, 토양 및 수분 센서, 날씨 추적 및 위성 이미징 등이 포함됩니다."
+		},
+		{
+			"title": "Robotics/Automation",
+			"description": "Technologies used to reduce labor and other farming inputs. Business activities include the development of farming drones and autonomous farm equipment for irrigation, soil management (agronomy), pollination, harvesting and processing (e.g. roboticenabled harvesters)",
+			"title_kr": "로봇공학/자동화",
+			"description_kr": "노동력 및 기타 농업 자원을 줄이기 위해 사용되는 기술들이 있습니다. 비즈니스 활동에는 농업용 드론과 자율 농장 장비의 개발이 포함됩니다. 농업용 드론과 자율 농장 장비는 관개, 토양 관리(작물학), 수분화, 수확 및 가공(로봇 지원 수확기 등)을 위해 사용됩니다."
+		},
+		{
+			"title": "Controlled Environment Agriculture (“CEA”)",
+			"description": "Technologies and systems that optimize plant and/or fish farming and use controlled environments to reduce the types and/or quantity of inputs required for farming. Business activities include vertical farming, hydroponics, aquaponics and aeroponics",
+			"title_kr": "제어환경농업(Closed Environment Agriculture, CEA)",
+			"description_kr": "식물 및/또는 어업을 최적화하고 작물 재배에 필요한 종류와/또는 양을 줄이기 위해 제어된 환경을 사용하는 기술과 시스템입니다. 비즈니스 활동에는 수직 농장, 수경재배, 어항식 작물 재배, 공중재배 등이 포함됩니다."
+		},
+		{
+			"title": "Agricultural Biotechnology",
+			"description": "Biological/genetic technologies used to enhance agricultural cultivation and yield. Business activities include the use of gene editing to develop crops with higher yield, less water requirements, greater insect resistance",
+			"title_kr": "농업 생명공학",
+			"description_kr": "농업 재배와 수확을 향상시키기 위해 사용되는 생물학적/유전 기술입니다. 비즈니스 활동은 유전자 편집을 이용하여 수확량이 더 많고 물 요구량이 적으며 곤충에 대한 내성이 더 큰 작물을 개발하는 데 포함됩니다."
+		}
+	]
+}

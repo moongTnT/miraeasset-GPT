@@ -1,0 +1,28 @@
+{
+	"subcategory_lists": [
+		{
+			"title": "Semiconductors",
+			"description": "and Sensors These are companies that provide the necessary technology hardware for IoT implementation, which includes developers and manufacturers of semiconductors and sensors with primary IoT applications.",
+			"title_kr": "반도체",
+			"description_kr": "그리고 센서는 IoT 구현을 위한 필수 기술 하드웨어를 제공하는 회사들입니다. 이들 회사는 반도체 및 센서의 개발자와 제조업체로서 주로 IoT 응용 분야에서 활용됩니다."
+		},
+		{
+			"title": "Networking Infrastructure/Software",
+			"description": "These are companies that provide end-to-end IoT solutions with complete (or partial) ecosystem covering sensor-embedded objects, networking and computing devices, big data analytics, IoT software services and IoT security.",
+			"title_kr": "네트워킹 인프라/소프트웨어",
+			"description_kr": "이러한 회사들은 센서 내장된 물건, 네트워킹 및 컴퓨팅 장치, 대용량 데이터 분석, IoT 소프트웨어 서비스 및 IoT 보안을 포함한 완전한(또는 일부) 생태계를 갖춘 종단간 IoT 솔루션을 제공하는 회사들입니다."
+		},
+		{
+			"title": "Equipment, Vehicle and Infrastructure/Building Technology",
+			"description": "These are companies that are involved in developing and providing IoT products and services for industrial and governmental applications including but not limited to smart grids, smart meters, smart cities, connected cars and the industrial internet. This segment does not include companies which are primarily consumers of industrial IoT products and services.",
+			"title_kr": "장비, 차량 및 인프라/건축 기술",
+			"description_kr": "이는 산업 및 정부용으로 IoT 제품 및 서비스를 개발하고 제공하는 회사들로, 스마트 그리드, 스마트 미터, 스마트 시티, 연결된 자동차 및 산업용 인터넷을 비롯한 다양한 응용분야에 참여하고 있습니다. 이 부문에는 주로 산업용 IoT 제품 및 서비스를 소비하는 회사는 포함되지 않습니다."
+		},
+		{
+			"title": "Consumer IoT Technology",
+			"description": "These are Companies that are involved in developing and providing IoT products and services for consumer applications with a focus on developing innovative solutions including but not limited to smart security, smart home solutions and wearable connected devices. This segment does not include companies which incorporate IoT solutions as a minor component or valueadded feature in their products.",
+			"title_kr": "소비자 IoT 기술",
+			"description_kr": "이는 소비자 응용 프로그램을 위해 IoT 제품과 서비스를 개발하고 제공하는 기업들입니다. 이들은 스마트 보안, 스마트 홈 솔루션 및 연결된 착용 장치를 포함한 혁신적인 솔루션 개발에 초점을 둡니다. 이 부문에는 제품의 부수적인 구성 요소로서 또는 부가적인 기능으로 IoT 솔루션을 통합하는 회사는 포함되지 않습니다."
+		}
+	]
+}
