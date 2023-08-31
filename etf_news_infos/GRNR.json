@@ -1,0 +1,69 @@
+{
+	"GRNR_news": [
+		{
+			"stock": "CARR",
+			"news_titles": [
+				"Carrier to Present at Morgan Stanley's 11th Annual Laguna Conference",
+				"3 Electronics Stocks to Buy From a Prospering Industry",
+				"Carrier (CARR) Boosts HVAC Offerings With Outdoor Air System",
+				"CARR vs. KLAC: Which Stock Is the Better Value Option?",
+				"Capital Research Global Investors Acquires Significant Stake in Carrier Global Corp",
+				"EcoEnergy Insights and JOANN Earn Top Project of the Year Award from Environment + Energy Leader",
+				"Is Carrier Global (CARR) Modestly Overvalued? A Comprehensive GF Value Analysis",
+				"Q2 2023 Carrier Global Corp Earnings Call"
+			]
+		},
+		{
+			"stock": "TT",
+			"news_titles": [
+				"Calhoun Community College Unveils Innovative Building Automation System Lab With Trane and NC3",
+				"Bridging the Education Gap in China’s Rural Communities",
+				"Trane Technologies (TT) Gains 28% in a Year: Here's How",
+				"Coursera, Inc. (COUR) Hit a 52 Week High, Can the Run Continue?",
+				"5 Industrial Product Stocks to Buy on Solid July Data",
+				"Is Limbach (LMB) Outperforming Other Business Services Stocks This Year?",
+				"Revolutionizing Healthcare: The Role of Life Sciences in a Changing World",
+				"Healthy Spaces Podcast: Season 3, Episode 5: Keeping Our Cool"
+			]
+		},
+		{
+			"stock": "PGRE",
+			"news_titles": [
+				"7 REITs to Sell in August Before They Crash and Burn",
+				"Q2 2023 Paramount Group Inc Earnings Call",
+				"Paramount Group: Q2 Earnings Snapshot",
+				"Paramount Announces Second Quarter 2023 Results",
+				"Paramount Reschedules Second Quarter 2023 Earnings Call to Tuesday August 1, 2023 at 9:00 AM",
+				"Should Value Investors Buy Empire State Realty Trust (ESRT) Stock?",
+				"Zacks.com featured highlights include Magna International, Paramount Group, Unum Group, StoneCo and Varex Imaging",
+				"5 Low Price-to-Book Stocks Worth Buying in July"
+			]
+		},
+		{
+			"stock": "VNO",
+			"news_titles": [
+				"Vornado (VNO) Enters PPP Venture to Develop Studio Campus in NYC",
+				"Analyst Report: Vornado Realty Trust",
+				"Blackstone, Office Giant Vornado to Join Forces on Manhattan’s First Film-and-TV Studio",
+				"Vornado Realty Trust, Hudson Pacific, Blackstone, and New York City Economic Development Corporation to Create Public-Private Partnership and First Purpose-Built Studio Campus in Manhattan at Pier 94",
+				"Vornado Explores Possible Sale of Manhattan’s Farley Building",
+				"Tudor, Adage Capital among hedge funds making bets on NYC office space",
+				"Here's Why You Should Retain Vornado Realty (VNO) Stock Now",
+				"3 REITs With Over 6% Dividend Yields That Smashed Earnings"
+			]
+		},
+		{
+			"stock": "BDN",
+			"news_titles": [
+				"BDN or EGP: Which Is the Better Value Stock Right Now?",
+				"Is Brandywine Realty Trust (BDN) Stock Undervalued Right Now?",
+				"BDN vs. EGP: Which Stock Is the Better Value Option?",
+				"3 Top Dividend Stocks to Sail Through a Choppy August",
+				"3 REITs That Beat Analysts' Earnings Estimates This Week",
+				"Q2 2023 Brandywine Realty Trust Earnings Call",
+				"Why Brandywine Realty Trust Stock Surged 9% Higher Today",
+				"Brandywine Realty CEO Sweeney: Executing leases has been ‘frustratingly slow’"
+			]
+		}
+	]
+}

@@ -1,0 +1,69 @@
+{
+	"DMAT_news": [
+		{
+			"stock": "FCX",
+			"news_titles": [
+				"Investors Heavily Search Freeport-McMoRan Inc. (FCX): Here is What You Need to Know",
+				"A Look At The Intrinsic Value Of Freeport-McMoRan Inc. (NYSE:FCX)",
+				"Ken Fisher’s Top 15 Stock Picks",
+				"Freeport-McMoRan (FCX) Stock Sinks As Market Gains: What You Should Know",
+				"BHP, Codelco, Freeport Vie for Title of Biggest Copper Producer",
+				"Zacks Market Edge Highlights: Chevron, Exxon Mobil, Newmont, Freeport-McMoRan and The Hershey Company",
+				"Gold, Copper, Energy and Cocoa: Hot or Not?",
+				"Barrick Gold CEO Says This Is The 'Most Strategic' Metal Of Them All — And It's Not Gold"
+			]
+		},
+		{
+			"stock": "EAF",
+			"news_titles": [
+				"Mohnish Pabrai’s 10 Biggest Investments in 10 Years",
+				"Is There Now An Opportunity In GrafTech International Ltd. (NYSE:EAF)?",
+				"Q2 2023 GrafTech International Ltd Earnings Call",
+				"GrafTech International (EAF) Q2 2023 Earnings Call Transcript",
+				"Why GrafTech International Stock Is Falling Today",
+				"GrafTech: Q2 Earnings Snapshot",
+				"GrafTech Reports Second Quarter 2023 Results",
+				"Timken (TKR) Q2 Earnings and Revenues Miss Estimates"
+			]
+		},
+		{
+			"stock": "LTHM",
+			"news_titles": [
+				"Daqo New Energy (DQ) Unit Approves Share Buyback Program",
+				"These Are the ONLY 3 Lithium Stocks to Consider in August 2023",
+				"Want to Get Rich? 3 Game-Changing Lithium Stocks to Buy Right Now",
+				"Graphite Wars: The Trillion Dollar Battery Race Has A Big Problem",
+				"Don’t Sleep on These 3 Lithium Stocks That Will Mint Millionaires",
+				"Livent Corporation (LTHM) Is a Trending Stock: Facts to Know Before Betting on It",
+				"EV Supplier Livent Holds Up Amid Lithium Price Declines -- Is It a Buy?",
+				"Robert Karr's Q2 2023 13F Filing Update: Top Trades and Portfolio Overview"
+			]
+		},
+		{
+			"stock": "MP",
+			"news_titles": [
+				"MP Materials Corp. (MP) is Attracting Investor Attention: Here is What You Should Know",
+				"MP Materials Corp. (MP) Is a Trending Stock: Facts to Know Before Betting on It",
+				"MP Materials Brings Rare-Earth Production Back to America, but at What Cost?",
+				"What You Need To Know About The MP Materials Corp. (NYSE:MP) Analyst Downgrade Today",
+				"Why MP Materials Stock Is Soaring Today",
+				"Q2 2023 MP Materials Corp Earnings Call",
+				"UPDATE 1-MP Materials profit beats, starts some rare earths refining",
+				"MP Materials Corp. (MP) Q2 Earnings and Revenues Surpass Estimates"
+			]
+		},
+		{
+			"stock": "ALB",
+			"news_titles": [
+				"Is Albemarle (ALB) Too Good to Be True? A Comprehensive Analysis of a Potential Value Trap",
+				"Here's Why We Think Albemarle (NYSE:ALB) Might Deserve Your Attention Today",
+				"Should You Sell Albemarle (ALB)?",
+				"These Are the ONLY 3 Lithium Stocks to Consider in August 2023",
+				"Lithium Stocks: Albemarle vs. SQM -- Whose Lithium Business Did Best in Q2?",
+				"How SC's rural Chester County landed $1.3B Albemarle Corp. lithium project",
+				"Albemarle Corporation (ALB) is Attracting Investor Attention: Here is What You Should Know",
+				"3 Stocks That Could Be Tomorrow’s Best Blue Chips"
+			]
+		}
+	]
+}

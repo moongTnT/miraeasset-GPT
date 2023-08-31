@@ -1,0 +1,69 @@
+{
+	"PTEC_news": [
+		{
+			"stock": "WE",
+			"news_titles": [
+				"Wall Street Funds Discuss Potential Bankruptcy Plan for WeWork",
+				"WeWork Taps Restructuring Advisers in Effort to Stave Off Bankruptcy",
+				"Hawaiian Electric, MSG Entertainment, WeWork: Trending stocks",
+				"WeWork to Conduct 1-for-40 Reverse Stock Split",
+				"The Score: Eli Lilly, WeWork, Walt Disney and More Stocks That Defined the Week",
+				"WeWork collapse: Impact on real estate market in New York",
+				"WeWork Stock Rockets Higher",
+				"WeWork Taps Directors With Bankruptcy Chops After Board Resignations"
+			]
+		},
+		{
+			"stock": "BEKE",
+			"news_titles": [
+				"Best Growth Stocks to Buy for August 30th",
+				"14 Best Low Risk High Growth Stocks to Buy Now",
+				"Estimating The Intrinsic Value Of KE Holdings Inc. (NYSE:BEKE)",
+				"CBRE Group's (CBRE) AI-Backed FM Solutions Cover 1B Sq. Ft.",
+				"KE Holdings Inc. to Report Second Quarter 2023 Financial Results on August 31, 2023 Eastern Time",
+				"Matthews Pacific Tiger Fund's Q2 2023 Portfolio Update",
+				"Is KE Hodlings (BEKE) Outperforming Other Finance Stocks This Year?",
+				"Can CBRE Group (CBRE) Navigate Well Through Rate Hikes?"
+			]
+		},
+		{
+			"stock": "OPEN",
+			"news_titles": [
+				"Opendoor Technologies Inc's Meteoric Rise: Unpacking the 59% Surge in Just 3 Months",
+				"Opendoor to Present at Goldman Sachs Communacopia & Technology Conference",
+				"Social Security: New Study Shows 90% of Americans Will Collect Payments Early — Here’s How Much Money You’ll Lose",
+				"Opendoor Technologies Inc. (OPEN) is Attracting Investor Attention: Here is What You Should Know",
+				"3 Unstoppable Growth Stocks to Buy Before They Soar",
+				"Opendoor Announces Inducement Grants Under Nasdaq Listing Rule 5635(c)(4)",
+				"Is Opendoor Technologies a Phoenix Rising From the Ashes? 3 Good Signs for the Business",
+				"Opendoor Technologies Inc. (OPEN) Is a Trending Stock: Facts to Know Before Betting on It"
+			]
+		},
+		{
+			"stock": "CSGP",
+			"news_titles": [
+				"Here's Why We Think CoStar Group (NASDAQ:CSGP) Is Well Worth Watching",
+				"CoStar Group (CSGP) Generated Good Results in Q2",
+				"Here’s Why CoStar Group (CSGP) Outperformed in Q2",
+				"CoStar Group Partners with Richmond Public Schools to Provide School Supplies for More than 35,000 Students",
+				"Is CoStar Group, Inc. (NASDAQ:CSGP) Worth US$81.3 Based On Its Intrinsic Value?",
+				"Landlords forced to get creative as office rental rate growth not keeping up with inflation",
+				"CoStar Group Appoints Angelique Brunner to Board of Directors",
+				"CoStar Group (CSGP) Increase on Robust Financial Performance"
+			]
+		},
+		{
+			"stock": "ABNB",
+			"news_titles": [
+				"Airbnb Stock: Is It A Buy Or Sell? Here's What Fundamentals, ABNB Stock Chart Action Say",
+				"Dougs Raises $27 Million After 8 Years Of Growth",
+				"Elon Musk's 77-Year-Old Dad Says He's Asked To Donate His Sperm: 'Why Go To Elon When They Can Go To The Actual Person Who Created Elon?'",
+				"Why Airbnb Inc's Stock Skyrocketed 21% in a Quarter: A Deep Dive",
+				"'We Are Actually Like An Automobile Company': ZenniHome Wants To Solve Affordable Housing Crisis",
+				"New York City Has Approved Only 257 Short-Term Rental Registrations Ahead of September 5 Deadline",
+				"Republic Unveils New Digital Wallet Aimed At Providing Liquidity To Startup Investing",
+				"Apartment fire that killed 7 in Montreal was deliberate -Canada police"
+			]
+		}
+	]
+}

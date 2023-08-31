@@ -1,0 +1,69 @@
+{
+	"HERO_news": [
+		{
+			"stock": "ATVI",
+			"news_titles": [
+				"Dip in Consumer Confidence Sparks Recession Fears: 3 Gainers",
+				"Has American Woodmark (AMWD) Outpaced Other Consumer Discretionary Stocks This Year?",
+				"2 Stocks Warren Buffett Can't Stop Buying and 1 Holding He's Decisively Selling",
+				"The Score: Macy’s, Nvidia, Warner Bros. Discovery and More Stocks That Defined the Week",
+				"Tech, Media & Telecom Roundup: Market Talk",
+				"Warren Buffett and Insiders Love These Stocks",
+				"Microsoft (MSFT) Revises Activision Deal to Obtain UK Approval",
+				"Analysis-UK's handling of Microsoft deal sows doubts over post-Brexit direction"
+			]
+		},
+		{
+			"stock": "RBLX",
+			"news_titles": [
+				"Roblox Stock Crashes 21% On Q2 Earnings; Is RBLX Stock A Buy Right Now?",
+				"What Makes Roblox Corporation (RBLX) a Prospective Investment?",
+				"Best Growth Stocks: Roblox Stock vs. Roku Stock",
+				"Can Roblox Stock's Bargain Levels Lead to Riches?",
+				"2 Stocks to Buy Before They Take Off",
+				"3 Video Game Stocks to Buy as Sales Surge",
+				"Prediction: These 2 Phenomenal Cathie Wood Stocks Down 80%-81% Could Make You Richer in a New Bull Market",
+				"Lawsuit claims that Roblox allegedly facilitates child gambling"
+			]
+		},
+		{
+			"stock": "NTES",
+			"news_titles": [
+				"These Are The 5 Best China Stocks To Buy And Watch Now",
+				"Have Investors Become Too Bearish on China? 3 Top Ranked Stocks to Watch",
+				"5 Stocks With Recent Dividend Hike Amid August Volatility",
+				"China grants approvals to 58 imported online games",
+				"Zacks Investment Ideas feature highlights: Arch Capital, NetEase and Chubb",
+				"Buy These 3 Low-Beta Stocks to Navigate Volatility",
+				"NetEase, Inc. (NASDAQ:NTES) Q2 2023 Earnings Call Transcript",
+				"Company News for Aug 25, 2023"
+			]
+		},
+		{
+			"stock": "BILI",
+			"news_titles": [
+				"Is There Now An Opportunity In Bilibili Inc. (NASDAQ:BILI)?",
+				"From Kuaishou to iQiyi, Chinese tech firms see stronger profits as they tout potential of generative AI",
+				"Bilibili Inc. (NASDAQ:BILI) Q2 2023 Earnings Call Transcript",
+				"Q2 2023 Bilibili Inc Earnings Call",
+				"Bilibili (BILI) Reports Q2 Loss, Tops Revenue Estimates",
+				"Bilibili: Q2 Earnings Snapshot",
+				"Bilibili Inc. Announces Second Quarter 2023 Financial Results",
+				"BILL Holdings (BILL) to Report Q4 Earnings: What's in Store?"
+			]
+		},
+		{
+			"stock": "EA",
+			"news_titles": [
+				"Rebooting This College Football Videogame Might Be Harder Than Winning a Title",
+				"Immortals of Aveum Arrives Today, Combining a Cinematic Single–Player Story With Spellbinding FPS Combat",
+				"Electronic Arts (EA) SPORTS Launches Madden NFL 24 Worldwide",
+				"Rising Star and Rapper Jufu Teams up With Magic FPS Game, Immortals of Aveum, to Premier New Single",
+				"Call Your Number in EA SPORTS Madden NFL 24, Available Everywhere Today",
+				"EA SPORTS™ NHL® 24 Unleashes the Intensity of Hockey With All-New Exhaust Engine and Physics-Based Contact; Arrives October 6",
+				"Investors in Electronic Arts (NASDAQ:EA) have unfortunately lost 14% over the last three years",
+				"The Zacks Analyst Blog Highlights Sony, Light & Wonder, Electronic Arts and Motorsport Games"
+			]
+		}
+	]
+}

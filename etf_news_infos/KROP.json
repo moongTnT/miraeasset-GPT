@@ -1,0 +1,69 @@
+{
+	"KROP_news": [
+		{
+			"stock": "CNHI",
+			"news_titles": [
+				"CNH Industrial Signs Landmark Agriculture Education Partnership",
+				"New Holland Agriculture Publicly Launches the Industry's First All-Electric Utility Tractor with Autonomous Features -- the Revolutionary T4 Electric Power Tractor",
+				"CNH Industrial Brand Launches the World's First Accessible Tractor",
+				"New Holland Arrives at Expo Rural With a Focus on Education, Sustainability, and Family",
+				"CNH Industrial: Periodic Report on $300 Million Buyback Program",
+				"CNH Industrial Cleans Up Once Again at Valor Inovação 2023",
+				"Thailand's Vocational Education Institute awards an honorary degree to Mark Brinn for outstanding contribution to agricultural machinery education",
+				"CNH Industrial Donates Precision Ag Simulator to FFA Chapter"
+			]
+		},
+		{
+			"stock": "CTVA",
+			"news_titles": [
+				"DOLE vs. CTVA: Which Stock Is the Better Value Option?",
+				"The 3 Most Undervalued Materials Stocks to Buy Now: August 2023",
+				"Holley and Corteva have been highlighted as Zacks Bull and Bear of the Day",
+				"Bear Of The Day: Corteva (CTVA)",
+				"30 Hungriest Countries in the World",
+				"Is Corteva Inc (CTVA) Modestly Undervalued? A Comprehensive Valuation Analysis",
+				"Q2 2023 Corteva Inc Earnings Call",
+				"Corteva, Inc. (CTVA) Q2 Earnings: Taking a Look at Key Metrics Versus Estimates"
+			]
+		},
+		{
+			"stock": "ADM",
+			"news_titles": [
+				"Archer Daniels Midland (ADM) Stock Sinks As Market Gains: What You Should Know",
+				"30 Countries With Most Arable Land In The World",
+				"Is Archer-Daniels-Midland Company's (NYSE:ADM) Recent Stock Performance Tethered To Its Strong Fundamentals?",
+				"Regina Bynote Jones Appointed Senior Vice President, General Counsel and Secretary at ADM",
+				"ADM to Present at J.P. Morgan 14th Annual U.S. All Stars Conference",
+				"We Ran A Stock Scan For Earnings Growth And Archer-Daniels-Midland (NYSE:ADM) Passed With Ease",
+				"ADM to Present at Barclays Global Consumer Staples Conference 2023",
+				"20 Cities With The Most Hispanics"
+			]
+		},
+		{
+			"stock": "NTR",
+			"news_titles": [
+				"When Should You Buy Nutrien Ltd. (TSE:NTR)?",
+				"Ukraine war thrusts fertiliser minerals to centre of food security debate",
+				"Mosaic (MOS) Benefits from Higher Demand, Cost Reductions",
+				"3 Mining Stocks You DON’T Want to Back Up the Truck On Now",
+				"30 Hungriest Countries in the World",
+				"7 Stocks to Leave for Dead After Dismal Q2 Earnings",
+				"Nutrien's (NTR) Q2 Earnings Lag Estimates, Revenues Beat",
+				"Nutrien (TSE:NTR) Is Looking To Continue Growing Its Returns On Capital"
+			]
+		},
+		{
+			"stock": "K",
+			"news_titles": [
+				"The Argus High-Yield Model Portfolio",
+				"Kellogg's Good Company/Bad Company Spin-Off Is Tough to Swallow",
+				"Strength in Brand Portfolio Aids Kellogg (K), Rising Costs Ail",
+				"NEW PRINGLES® EVERYTHING BAGEL PUTS A CRISP TWIST ON A TRENDING, FAN-FAVORITE FLAVOR",
+				"Analyst Report: Kellogg Co",
+				"Market Digest: K, LDOS, LYB, FOXA",
+				"The M7 B-Schools: Everything You Need To Know",
+				"Don't Race Out To Buy Kellogg Company (NYSE:K) Just Because It's Going Ex-Dividend"
+			]
+		}
+	]
+}

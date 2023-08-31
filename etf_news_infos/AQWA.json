@@ -1,0 +1,69 @@
+{
+	"AQWA_news": [
+		{
+			"stock": "WTRG",
+			"news_titles": [
+				"Market Digest: AJG, WTRG, ENOV",
+				"Analyst Report: Essential Utilities Inc",
+				"Estimating The Fair Value Of Essential Utilities, Inc. (NYSE:WTRG)",
+				"Consolidated Water (CWCO) Q2 Earnings & Sales Surpass Estimates",
+				"Essential Utilities named to Newsweek’s Most Responsible Companies list for second consecutive year",
+				"Essential Utilities (WTRG) Q2 Earnings On Par With Estimates",
+				"Essential Utilities (WTRG) Q2 Earnings Meet Estimates",
+				"Essential Utilities: Q2 Earnings Snapshot"
+			]
+		},
+		{
+			"stock": "ECL",
+			"news_titles": [
+				"The CEO of water treatment company Ecolab doesn’t think fossil fuels are going away anytime soon: ‘We will need more oil and gas than we use today’",
+				"Bill Gates Stock Portfolio: August 2023 Update",
+				"13 Best Wide Moat Stocks To Buy According To Hedge Funds",
+				"Kelly Clarkson to headline Ecolab 100-year event at U.S. Bank Stadium",
+				"Ecolab Declares Cash Dividend",
+				"Ecolab Inc. (NYSE:ECL) Q2 2023 Earnings Call Transcript",
+				"Ecolab to Host 2023 Investor Day on September 14",
+				"Q2 2023 Ecolab Inc Earnings Call"
+			]
+		},
+		{
+			"stock": "XYL",
+			"news_titles": [
+				"Sources: Xylem commits to doubling size of Evoqua research facility at Tech Forge in Lawrenceville",
+				"Unveiling Xylem (XYL)'s Value: Is It Really Priced Right? A Comprehensive Guide",
+				"Oracle upgraded, Farfetch downgraded: Wall Street's top analyst calls",
+				"Naomi Park from USA wins Stockholm Junior Water Prize 2023",
+				"Xylem Announces Participation at Upcoming Investor Conferences",
+				"The 7 Most Undervalued Industrial Stocks to Buy Now: August 2023",
+				"Xylem Inc. Declares Third Quarter Dividend of 33 Cents per Share",
+				"Gabelli Funds to Host PFAS Symposium at the Harvard Club, New York City"
+			]
+		},
+		{
+			"stock": "FERG",
+			"news_titles": [
+				"Ferguson Share Repurchase Program - Weekly Report",
+				"Estimating The Fair Value Of Ferguson plc (NYSE:FERG)",
+				"Is Ferguson plc (NYSE:FERG) Potentially Undervalued?",
+				"We Think Ferguson (NYSE:FERG) Might Have The DNA Of A Multi-Bagger",
+				"Nelson Peltz's Q2 2023 13F Filing Update: Key Trades and Portfolio Overview",
+				"Are Strong Financial Prospects The Force That Is Driving The Momentum In Ferguson plc's NYSE:FERG) Stock?",
+				"Ferguson plc (NYSE:FERG) is a favorite amongst institutional investors who own 86%",
+				"Ferguson Acquires Bruce Supply Corp, The Kennedy Companies and S. G. Torrice"
+			]
+		},
+		{
+			"stock": "AWK",
+			"news_titles": [
+				"Why American Water Works (AWK) is a Great Dividend Stock Right Now",
+				"California American Water Lifts Boil Water Notice for its San Diego County District",
+				"UPDATE: California American Water Issues Boil Water Notice for Customers in its San Diego District",
+				"Why Is American Water Works (AWK) Down 6.9% Since Last Earnings Report?",
+				"4 Reasons to Add Middlesex Water (MSEX) to Your Portfolio Now",
+				"California American Water Issues Boil Water Notice for Customers in Its San Diego District",
+				"American Water Publishes 2022 Supplier Diversity Economic Impact Report",
+				"American Water Works' (AWK) Illinois Arm Acquires Assets"
+			]
+		}
+	]
+}

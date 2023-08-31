@@ -1,0 +1,69 @@
+{
+	"AGNG_news": [
+		{
+			"stock": "AZN",
+			"news_titles": [
+				"CanSino Biologics on AstraZeneca Deal, Earnings",
+				"Medicare price negotiation list: What it means for pharma companies",
+				"Expensive Drugs Targeted for First U.S. Price Negotiations",
+				"Analyst Report: AstraZeneca PLC",
+				"The Zacks Analyst Blog Highlights Regeneron Pharmaceuticals, Merck, Novartis and AstraZeneca",
+				"Biden Administration targets drugs from J&J, Merck for controversial Medicare price negotiations",
+				"Oncology Market's Huge Potential Puts These Stocks in Focus",
+				"Ken Fisher’s Top 15 Healthcare Stock Picks"
+			]
+		},
+		{
+			"stock": "JNJ",
+			"news_titles": [
+				"Analyst Report: Johnson & Johnson",
+				"Medicare's drug pricing list didn't impact company stocks — here's why",
+				"Johnson & Johnson Forecasts Double-Digit Earnings Growth After Kenvue Spin-Off",
+				"Merck's (MRK) Keytruda Receives EU Nod in Gastric Cancer",
+				"Medicare price negotiation list: What it means for pharma companies",
+				"J&J, India's Lupin cut prices for tuberculosis drug in lower-income countries",
+				"Johnson & Johnson Revises Guidance After Kenvue Spinout. There’s Good News on the Dividend.",
+				"Midday movers: HP Inc., Nvidia, Coinbase and more"
+			]
+		},
+		{
+			"stock": "BMY",
+			"news_titles": [
+				"Bristol Myers Squibb (BMY) Stock Sinks As Market Gains: What You Should Know",
+				"Multiple Reasons to Keep Off This Pharma Stock",
+				"Medicare's drug pricing list didn't impact company stocks — here's why",
+				"Medicare price negotiation list: What it means for pharma companies",
+				"Apellis Pharmaceuticals, Inc. (APLS) Up 67.8% Since Last Earnings Report: Can It Continue?",
+				"What Impact Will Medicare Price Negotiations Have on Big Pharma Stocks?",
+				"Eli Lilly and Other Pharma Stocks Are Ignoring Medicare’s 10 Drug List",
+				"Analyst Report: Bristol-Myers Squibb Company"
+			]
+		},
+		{
+			"stock": "ABBV",
+			"news_titles": [
+				"Top Dividend Stocks: In Biotech Space, AbbVie Entices With 4% Yield",
+				"Medicare's drug pricing list didn't impact company stocks — here's why",
+				"Medicare price negotiation list: What it means for pharma companies",
+				"Journal of Cosmetic Dermatology Publishes Data Demonstrating Patient Satisfaction with Natural-Looking Outcomes Following Treatment with OnabotulinumtoxinA (BOTOX® Cosmetic)",
+				"Expensive Drugs Targeted for First U.S. Price Negotiations",
+				"The Unexpected Bad News For Novo's Ozempic In Biden's Drug Negotiations List",
+				"AbbVie's Quant Upgrade Gets My Attention. Bullish Charts Keep It",
+				"Analyst Report: AbbVie Inc."
+			]
+		},
+		{
+			"stock": "BSX",
+			"news_titles": [
+				"If You Invested $1000 in Boston Scientific a Decade Ago, This is How Much It'd Be Worth Now",
+				"PBH vs. BSX: Which Stock Should Value Investors Buy Now?",
+				"Company News for Aug 29, 2023",
+				"S&P 500 Gains and Losses Today: Index Adds to Last Week's Advance After Powell's Comments",
+				"Boston Scientific Surges As It Looks To Enter A Market Worth Nearly $8 Billion",
+				"Boston Scientific Leads the S&P 500",
+				"3M, Boston Scientific rise; Abcam, NovoCure fall, Monday, 8/28/2023",
+				"Boston Scientific Reports Positive Results from Atrial Fibrillation Device"
+			]
+		}
+	]
+}

@@ -1,0 +1,69 @@
+{
+	"EWEB_news": [
+		{
+			"stock": "NU",
+			"news_titles": [
+				"Implied Volatility Surging for Nu Holdings (NU) Stock Options",
+				"What Makes Nu Holdings Ltd. (NU) a Worthy Investment?",
+				"This Unstoppable Fintech Keeps Crushing Analyst Estimates",
+				"2 No-Brainer Stocks to Buy Right Now for Less than $10",
+				"Should Investors Buy Nu Holdings Stock Right Now?",
+				"Stock Market Swoon: 3 Stocks to Buy on the Dip",
+				"Should You Invest in Nu Holdings Ltd. (NU)?",
+				"A Bull Market Is Coming: 2 Warren Buffett Stocks to Buy Hand Over Fist"
+			]
+		},
+		{
+			"stock": "JD",
+			"news_titles": [
+				"China stocks see gains amid property market pressures",
+				"JD.com, Inc.'s (NASDAQ:JD) Stock Has Shown Weakness Lately But Financial Prospects Look Decent: Is The Market Wrong?",
+				"Alibaba, JD.com, and Other Chinese Stocks Climb. What Is Behind the Rally.",
+				"Retail News, Vegas Happenings, and a China Check-In",
+				"There's Been No Shortage Of Growth Recently For JD.com's (NASDAQ:JD) Returns On Capital",
+				"Free shipping, faster delivery: Chinese e-commerce giants JD.com, Alibaba lock horns in logistics",
+				"Wall Street Analysts Think JD.com, Inc. (JD) Is a Good Investment: Is It?",
+				"Chinese E-Commerce Giants Pivot to Selling Inexpensive Goods"
+			]
+		},
+		{
+			"stock": "CPNG",
+			"news_titles": [
+				"The Amazon of South Korea Looks Like a Screaming Buy",
+				"3 Unstoppable Growth Stocks to Buy Before They Soar",
+				"A Closer Look at Coupang",
+				"Is There An Opportunity With Coupang, Inc.'s (NYSE:CPNG) 22% Undervaluation?",
+				"Where Will Coupang Stock Be in 1 Year?",
+				"After a year of 4.2% returns, Coupang, Inc.'s (NYSE:CPNG) share price drop last week may have less of an impact on institutional investors",
+				"Stanley Druckenmiller 13F Portfolio: Top 15 Stocks",
+				"Why Coupang, Inc. (CPNG) Might be Well Poised for a Surge"
+			]
+		},
+		{
+			"stock": "TME",
+			"news_titles": [
+				"Implied Volatility Surging for Tencent Music (TME) Stock Options",
+				"China online platforms scrap lucky draw features amid gambling crackdown",
+				"2 Stocks to Buy Before They Take Off",
+				"Why Tencent Music Entertainment Stock Was Up This Week",
+				"Q2 2023 Tencent Music Entertainment Group Earnings Call",
+				"This Spotify Rival From China Just Saw Its MAUs Dip in Q2, Stock Slides",
+				"Midday movers: Home Depot, Tesla, General Motors and more",
+				"UPDATE 5-Tencent Music's quarterly revenue rises but warns of decline ahead"
+			]
+		},
+		{
+			"stock": "PDD",
+			"news_titles": [
+				"Analyst Report: PDD Holdings Inc.",
+				"These Are The 5 Best China Stocks To Buy And Watch Now",
+				"Sunrun upgraded, Texas Instruments downgraded: Wall Street's top analyst calls",
+				"PDD Holdings Inc. (NASDAQ:PDD) Q2 2023 Earnings Call Transcript",
+				"Dow Jones Futures Rise: Market Rally Makes Bullish Move; Tesla Leads 9 Stocks In Buy Areas",
+				"Q2 2023 PDD Holdings Inc Earnings Call",
+				"PDD Co-Founder Colin Huang Adds $4.3 Billion in Wealth",
+				"PDD Holdings Jumps 15% On Earnings Beat; Revenue Up 66%"
+			]
+		}
+	]
+}

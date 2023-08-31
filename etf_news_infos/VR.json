@@ -1,0 +1,69 @@
+{
+	"VR_news": [
+		{
+			"stock": "TSM",
+			"news_titles": [
+				"TSMC (TSM) Stock Sinks As Market Gains: What You Should Know",
+				"Should You Invest in TSMC (TSM) Based on Bullish Wall Street Views?",
+				"Nvidia’s critical weak point: Taiwan",
+				"Scott Black's Q2 2023 13F Filing: Key Trades and Portfolio Overview",
+				"Investors Heavily Search Taiwan Semiconductor Manufacturing Company Ltd. (TSM): Here is What You Need to Know",
+				"Ken Fisher’s Top 15 Stock Picks",
+				"1 Artificial Intelligence (AI) Stock to Buy Hand Over Fist Before It Soars Like Nvidia",
+				"Have $1,000? These 2 Stocks Could Be Bargain Buys for 2023 and Beyond"
+			]
+		},
+		{
+			"stock": "AAPL",
+			"news_titles": [
+				"15 Most Bike Friendly Cities in the US",
+				"Hollywood strikes, subscriber churn, sports rights: Big media woes",
+				"Apple’s Impact Accelerator picks 2 Bay Area sustainability startups",
+				"Why 3D Systems Stock Zoomed Higher Today",
+				"5 Monopoly Stocks At the Top of Their Game",
+				"Top Research Reports for Apple, Broadcom & Caterpillar",
+				"Economy: We have a ‘goldilocks scenario,’ strategist says",
+				"Apple Stock on Pace for Worst Month of the Year"
+			]
+		},
+		{
+			"stock": "GOOGL",
+			"news_titles": [
+				"Privacy activist Schrems files complaints against Google's Fitbit",
+				"Google introduces generative AI to Search in India, Japan",
+				"Google's AI-powered search expands outside U.S. to India and Japan",
+				"Google is bringing its generative AI search engine to India, Japan",
+				"Factbox-Big names in Big Tech to attend AI forum of US Senate's Schumer",
+				"Nvidia Partner Expects AI Server Sales to Double in 2024",
+				"Don’t want to go to a work meeting? Google is testing an A.I. tool that can go for you",
+				"Alphabet (GOOGL) Outpaces Stock Market Gains: What You Should Know"
+			]
+		},
+		{
+			"stock": "AMZN",
+			"news_titles": [
+				"Amazon, Shopify Strike Deal to Open Amazon Logistics to Sellers",
+				"Shopify says merchants can use Amazon's 'Buy with Prime' option",
+				"UPDATE 1-Shopify says merchants can use Amazon's 'Buy with Prime' option",
+				"Amazon Announces App Integration for Merchants to Enable Buy with Prime on Shopify Stores",
+				"Economy: We have a ‘goldilocks scenario,’ strategist says",
+				"You Won't Believe What Amazon CEO Said About Artificial Intelligence (AI)",
+				"Nvidia just hit record highs, but stock may still be 'cheap,' says analyst",
+				"Amazon's new move in battle with Walmart and Target may anger you"
+			]
+		},
+		{
+			"stock": "MSFT",
+			"news_titles": [
+				"Baidu, SenseTime Among First Firms to Win China AI Approval",
+				"Earnings Quality: The Pillar of Sound Value Investing",
+				"Google is bringing its generative AI search engine to India, Japan",
+				"15 Biggest Startup Failures in the World",
+				"Factbox-Big names in Big Tech to attend AI forum of US Senate's Schumer",
+				"PS5 Sales by Country: Top 15 Countries",
+				"Don’t want to go to a work meeting? Google is testing an A.I. tool that can go for you",
+				"Microsoft (MSFT) Gains But Lags Market: What You Should Know"
+			]
+		}
+	]
+}

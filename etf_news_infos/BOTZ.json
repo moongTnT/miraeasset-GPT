@@ -1,0 +1,69 @@
+{
+	"BOTZ_news": [
+		{
+			"stock": "NVDA",
+			"news_titles": [
+				"Biden administration restricting Nvidia’s sales of AI chips to some countries in Middle East",
+				"AI startup AI21 Labs valued at $1.4 billion after latest fund raise",
+				"AI startup AI21 Labs valued at $1.4 bln after latest fund raise",
+				"Nvidia Partner Expects AI Server Sales to Double in 2024",
+				"5 Monopoly Stocks At the Top of Their Game",
+				"AI boom has brought us triple-digit growth: Hewlett Packard Enterprise CEO",
+				"Economy: We have a ‘goldilocks scenario,’ strategist says",
+				"Mastercard & Visa, HP Inc., Nvidia's all-time high: Top Stocks"
+			]
+		},
+		{
+			"stock": "PATH",
+			"news_titles": [
+				"Millionaire Investor Cathie Wood Ditches ‘Overvalued’ Nvidia — Her 3 Stock Picks for an ‘AI-Dominant Era’",
+				"Navigating the AI Investment Terrain: A Deep Dive Into 2 High-Potential Stocks",
+				"Is a Surprise Coming for UiPath (PATH) This Earnings Season?",
+				"UiPath Announces New Connectors for Google AI and Google Workspace at Google Cloud Next 2023 Conference",
+				"This Is Google's Favorite AI Stock Other Than Itself (and Cathie Wood's Ark Invest Really Loves It, Too)",
+				"3 Supercharged Tech Stocks to Buy Without Any Hesitation",
+				"3 Cathie Wood Stocks That Could Deliver Bigger Gains Than the Market",
+				"Cathie Wood's Ark Invest Thinks Apple, Alphabet, and Nvidia Are Risky. Here Are 2 Artificial Intelligence (AI) Stocks That Could Be Better."
+			]
+		},
+		{
+			"stock": "ISRG",
+			"news_titles": [
+				"Unveiling the Investment Potential of Intuitive Surgical Inc (ISRG): A Comprehensive Analysis ...",
+				"Intuitive Surgical (NASDAQ:ISRG) jumps 4.1% this week, though earnings growth is still tracking behind five-year shareholder returns",
+				"Intuitive Surgical Inc's Winning Formula: A Deep Dive into Financial Metrics and Competitive ...",
+				"Is Intuitive Surgical Inc. (ISRG) Modestly Undervalued? A Comprehensive Valuation Analysis",
+				"Intuitive Surgical, Inc. (ISRG) Is Considered a Good Investment by Brokers: Is That True?",
+				"Is Most-Watched Stock Intuitive Surgical, Inc. (ISRG) Worth Betting on Now?",
+				"3 Millionaire-Maker Robotics Stocks to Hold Through Thick and Thin",
+				"3 Millionaire-Maker Robotics Stocks to Load Up Now"
+			]
+		},
+		{
+			"stock": "DT",
+			"news_titles": [
+				"Technology Executive Amol Kulkarni Appointed to the Dynatrace Board of Directors",
+				"Dynatrace to Present at Upcoming Investor Conference",
+				"Dynatrace (DT) Rose on the Excitement Surrounding AI",
+				"Dynatrace Unveils Security Analytics, Providing Actionable Insights for Proactive Defense Against Threats to Cloud Applications",
+				"1 Highly Profitable Cloud AI Stock Investors Need to Know About Now",
+				"Dynatrace (DT) Q1 2024 Earnings Call Transcript",
+				"Stock Market Losses Deepen At Midday As Nasdaq Tumbles 2.3%; These Stocks Are Damaged",
+				"Dynatrace (DT) Reports Q1 Earnings: What Key Metrics Have to Say"
+			]
+		},
+		{
+			"stock": "SOUN",
+			"news_titles": [
+				"SoundHound Joins Forces With ChowNow To Ensure Restaurants Never Miss A Call",
+				"SoundHound Collaborates with Togg to Deliver Voice AI Experience to New Smart Vehicles",
+				"‘Pullback Will Be Short-Lived’: Daniel Ives Says Buy These 2 AI-Driven Tech Stocks — Including One With 260% Upside",
+				"SoundHound AI Launches Fully Automated Smart Answering Service That Lets Any Business Handle Customer Service Calls With Voice AI",
+				"SoundHound AI Reports Second Quarter Revenue Increase of 42%, Adjusted EBITDA Improves 50%, Strong Increase in Cash Position, Investment in Generative AI Foundation Model",
+				"SoundHound and White Castle Commit to Expand Successful Drive-Thru AI Partnership",
+				"Northland Capital Markets Institutional Investor Conference",
+				"SoundHound AI Announces Date of 2023 Second Quarter Financial Results, Files S-3 Shelf Registration, Reports Strong Cash Position of Approximately $130 Million"
+			]
+		}
+	]
+}

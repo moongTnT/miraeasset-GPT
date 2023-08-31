@@ -1,0 +1,59 @@
+{
+	"POTX_news": [
+		{
+			"stock": "TLRY",
+			"news_titles": [
+				"Analyst Report: Tilray Brands, Inc.",
+				"Is TLRY Stock A Buy After Feds Recommend Cannabis To Be Rescheduled?",
+				"HHS officials recommend the DEA ease its marijuana restrictions",
+				"Why Tilray Stock Surged Today",
+				"Tilray and Curaleaf Stocks Surge as DEA Considers Reclassifying Marijuana",
+				"Canadian Investment Regulatory Organization Trade Resumption - TLRY",
+				"Canadian Investment Regulatory Organization Trading Halt - TLRY",
+				"3 Key Tests for Tilray Stock in Fall 2023"
+			]
+		},
+		{
+			"stock": "ACB",
+			"news_titles": [
+				"Analyst Report: Aurora Cannabis Inc.",
+				"HHS officials recommend the DEA ease its marijuana restrictions",
+				"This F-Rated Cannabis Stock Is One of the Worst Companies You Could Buy Now",
+				"3 Cannabis Stocks to Snap Up Before They Skyrocket",
+				"Aurora Cannabis Announces Results of 2023 Annual General Meeting",
+				"Aurora Cannabis Announces Fiscal 2024 First Quarter Results, and Delivers Record Positive Adjusted EBITDA",
+				"QuidelOrtho (QDEL) Beats Q2 Earnings and Revenue Estimates",
+				"Estimating The Intrinsic Value Of Aurora Cannabis Inc. (TSE:ACB)"
+			]
+		},
+		{
+			"stock": "SNDL",
+			"news_titles": [
+				"SNDL and Nova Cannabis Extend Outside Date for Closing of the Strategic Partnership",
+				"2 Cannabis Stocks That Have Turned to Alcohol for Growth",
+				"The 3 Most Undervalued Cannabis Stocks to Buy Now: August 2023",
+				"SNDL Reports Second Quarter 2023 Financial and Operational Results",
+				"3 Budding Cannabis Stocks to Buy Now",
+				"20 Cities with the Cheapest Weed in the World",
+				"SNDL to Announce Second Quarter 2023 Financial Results on August 14, 2023",
+				"SNDL Announces 2023 Annual General Meeting Results"
+			]
+		},
+		{
+			"stock": "MAPS",
+			"news_titles": [
+				"Weedmaps and \"The Freak Brothers\" Get Lit for Season 2",
+				"WM Technology, Inc. Reports Second Quarter 2023 Financial Results",
+				"WM Technology, Inc. Announces Second Quarter 2023 Financial Results Conference Call"
+			]
+		},
+		{
+			"stock": "MYMD",
+			"news_titles": [
+				"FDA Accepts MyMD Pharmaceuticals’ Investigational New Drug Application (IND) for Phase 2 Study of oral TNF-α inhibitor MYMD-1® in Rheumatoid Arthritis (RA)",
+				"MyMD Pharmaceuticals to Hold Conference Call Today to Discuss Phase 2 Trial Results",
+				"MyMD Pharmaceuticals Reports Statistically Significant Positive Topline Phase 2 Results for Next Generation Oral TNF-α Inhibitor MYMD-1® in Sarcopenia/Age-Related Frailty"
+			]
+		}
+	]
+}
