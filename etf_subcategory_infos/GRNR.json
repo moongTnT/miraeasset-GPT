@@ -3,20 +3,20 @@
 		{
 			"title": "Green Building Development",
 			"description": "Companies that design, construct, redevelop, or retrofit properties that meet reputable green building certification standards. Green building certification standards verify that a building has met certain environmental, energy, human health, and other standards in its design, construction, and operation.",
-			"title_kr": "녹색 건설 개발: 친환경 건물 개발 및 운영",
-			"description_kr": "환경친화적인 건물 설계, 시공, 개발, 개조를 하는 기업들. 친환경 건물 인증 기준을 충족하는지 확인한다."
+			"title_kr": "친환경 건물 개발",
+			"description_kr": "친환경 건물 인증 기준을 충족하는 건물을 설계, 건설, 개발 또는 개조하는 회사들."
 		},
 		{
 			"title": "Green Building Management",
 			"description": "Companies that manage and/or operate buildings that have obtained a green certification.",
-			"title_kr": "친환경 건물 관리",
-			"description_kr": "녹색 인증을 획득한 건물을 운영하는 회사들."
+			"title_kr": "녹색 건물 관리 - 친환경 건물 운영 및 관리에 전문화된 회사",
+			"description_kr": "친환경 인증을 받은 건물을 관리하고 운영하는 기업들."
 		},
 		{
 			"title": "Green Building Technologies & Materials",
 			"description": "Companies that provide products/services that increase the energy efficiency of residential, commercial, or public buildings. This includes products/services such as insulation and building envelopes, controls and displays for heating, cooling, lighting and home automation, HVAC, energy management services, windows, doors, elevators, etc.",
-			"title_kr": "친환경 건축 기술 및 소재",
-			"description_kr": "건물의 에너지 효율을 높이는 제품과 서비스를 제공하는 기업들. 절연재, 건축외피, 난방, 냉방, 조명 및 홈 자동화를 위한 제어장치, 에너지 관리 서비스, 창문, 문, 엘리베이터 등을 포함한다."
+			"title_kr": "환경친화적인 건설 기술 및 자재 회사",
+			"description_kr": "건물의 에너지 효율을 증가시키는 제품과 서비스를 제공하는 기업들. 절연재, 건축 외피, 난방, 냉방, 조명 및 홈 오토메이션을 위한 제어 및 디스플레이, HVAC, 에너지 관리 서비스, 창문, 문, 엘리베이터 등이 포함된다."
 		}
 	]
 }

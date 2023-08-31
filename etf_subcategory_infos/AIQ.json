@@ -3,26 +3,26 @@
 		{
 			"title": "Artificial Intelligence Developers",
 			"description": "This category includes companies that develop AI and use AI in their own products. Companies that have developed internal AI capabilities (organically or through acquisition) and are applying artificial intelligence technology to enhance their products and services are the focus. AI applications include but are not limited to language/image processing and recognition, automated communications, threat detection, recommendation generation, and other predictive analytics. The companies are considered for inclusion in this category based on the level of AI involvement of the companies.",
-			"title_kr": "인공지능 개발자들: 인공지능 개발에 전문화된 회사들로 이루어진 포트폴리오입니다.",
-			"description_kr": "AI 기술을 개발하고 제품에 적용하는 기업을 포함하는 카테고리. 언어/이미지 처리, 자동화된 커뮤니케이션, 위협 탐지, 추천 생성 및 예측 분석 등 다양한 AI 응용 프로그램을 갖춘 기업들을 주로 포함."
+			"title_kr": "인공지능 개발 업체",
+			"description_kr": "AI 기술을 개발하고 제품에 적용하는 기업들을 포함한 AI 기업들입니다. 언어/이미지 처리, 자동화된 커뮤니케이션, 위협 탐지, 추천 생성, 예측 분석 등 AI 응용분야에 집중합니다. AI 기술 수준을 기준으로 삼아 포함 여부를 결정합니다."
 		},
 		{
 			"title": "Artificial Intelligence-as-aService (“AIaaS”)",
 			"description": "Companies that provide artificial intelligence capabilities to their customers as a service. Companies in this segment typically offer cloud-based platforms that allow their customers to apply artificial intelligence techniques without needing to make a direct investment in AI-related infrastructure.",
-			"title_kr": "인공지능 서비스를 제공하는 회사. AI 서비스의 수요 증가로 성장 가능성 높음.",
-			"description_kr": "인공지능 서비스를 고객에게 제공하는 기업들, 클라우드 기반 플랫폼을 통해 인공지능 기술을 활용할 수 있게 함"
+			"title_kr": "인공지능 서비스를 제공하는 기업",
+			"description_kr": "클라우드 기반의 인공지능 플랫폼을 제공하여 고객이 인공지능 기술을 활용할 수 있도록 돕는 기업들."
 		},
 		{
 			"title": "Artificial Intelligence Hardware",
 			"description": "Companies that produce semiconductors, memory storage and other hardware that is utilized for artificial intelligence applications.",
 			"title_kr": "인공지능 하드웨어",
-			"description_kr": "인공지능 응용 프로그램에 사용되는 반도체, 메모리 저장장치 등 하드웨어를 제조하는 기업들."
+			"description_kr": "인공지능 응용을 위한 반도체, 메모리 저장장치 등 하드웨어 생산기업들."
 		},
 		{
 			"title": "Quantum Computing",
 			"description": "Companies that are at the forefront of developing quantum computing technology, which is in the process of being commercialized and is expected to have significance in AI and big data applications in the future.",
-			"title_kr": "양자 컴퓨팅: 혁신적인 기술로 미래의 핵심 역할을 수행하는 컴퓨팅 분야.",
-			"description_kr": "양자 컴퓨팅 기술 개발에 선도적인 기업, 인공지능과 빅데이터 분야에서 중요성을 갖을 전망."
+			"title_kr": "양자 컴퓨팅 기술, 미래의 혁신과 변화를 이끌 예정 (Quantum computing technology, leading future innovation and transformation)",
+			"description_kr": "양자 컴퓨팅 기술을 개발하는 선두 기업들, 상업화가 진행되고 있는 기술로 인공지능과 빅데이터 응용 분야에서 중요성을 갖을 전망."
 		}
 	]
 }
