@@ -1,0 +1,69 @@
+{
+	"VPN_news": [
+		{
+			"stock": "INTC",
+			"news_titles": [
+				"Nvidia is the AI king, but threats to its reign abound",
+				"The Zacks Analyst Blog Highlights Exxon Mobil, The Home Depot, Intel, NextEra Energy and Vertex Pharmaceuticals",
+				"Intel's Efficient 144-Core Monster Is Coming Next Year",
+				"Alphabet Focuses on Efficiency with New AI Chip",
+				"The 1 Figure in Nvidia's Quarterly Report No One Is Talking About That Has the Potential to Sink the Ship",
+				"Why Intel Stock Inched Higher Today",
+				"Top Analyst Reports for Exxon Mobil, Home Depot & Intel",
+				"ARM IPO and Recent Acquisition Updates That Semiconductor Investors Should Know About"
+			]
+		},
+		{
+			"stock": "NVDA",
+			"news_titles": [
+				"Biden administration restricting Nvidia’s sales of AI chips to some countries in Middle East",
+				"AI startup AI21 Labs valued at $1.4 billion after latest fund raise",
+				"AI startup AI21 Labs valued at $1.4 bln after latest fund raise",
+				"Nvidia Partner Expects AI Server Sales to Double in 2024",
+				"5 Monopoly Stocks At the Top of Their Game",
+				"AI boom has brought us triple-digit growth: Hewlett Packard Enterprise CEO",
+				"Economy: We have a ‘goldilocks scenario,’ strategist says",
+				"Mastercard & Visa, HP Inc., Nvidia's all-time high: Top Stocks"
+			]
+		},
+		{
+			"stock": "AMD",
+			"news_titles": [
+				"A Look at AMD's Innovation Advantage",
+				"'Magnificent Seven' investing playbook: How high can Nvidia stock go?",
+				"Nvidia is the AI king, but threats to its reign abound",
+				"AMD Shares The Technical Details of Technology Powering Innovative Confidential Computing Leadership Cloud Offerings",
+				"What Might Nvidia's Future Look Like?",
+				"Is Advanced Micro Devices (NASDAQ:AMD) Weighed On By Its Debt Load?",
+				"The 1 Figure in Nvidia's Quarterly Report No One Is Talking About That Has the Potential to Sink the Ship",
+				"Semiconductor Stocks Are Surging. Why They Might Just Be Getting Started."
+			]
+		},
+		{
+			"stock": "MU",
+			"news_titles": [
+				"Micron Technology to Report Fiscal Fourth Quarter Results on September 27, 2023",
+				"Artificial Intelligence Is Ending Micron's Downturn",
+				"Possible Bearish Signals With Micron Technology Insiders Disposing Stock",
+				"Microchip Technology Stock Shows Improved Technical Strength",
+				"Markets Rise Midday, Adding to Gains After Fed Chair Powell's Rate Hike Comments",
+				"Unveiling Micron Technology (MU)'s Value: Is It Really Priced Right? A Comprehensive Guide",
+				"UPDATE 1-US Commerce chief raised Micron, Intel with Chinese officials",
+				"Micron names China government affairs director as chip firm seeks to mend ties with Beijing amid tensions"
+			]
+		},
+		{
+			"stock": "MRVL",
+			"news_titles": [
+				"We're Upgrading Shares of This Tech Position",
+				"Nvidia stock: 'The easy money has been made,' strategist says",
+				"Institutional shareholders may be less affected by Marvell Technology, Inc.'s (NASDAQ:MRVL) pullback last week after a year of 7.2% returns",
+				"These Stocks Moved the Most Today: Affirm, Marvell, Domo, Hawaiian Electric, AMC, Nordstrom, and More",
+				"Chipmaker Marvell Technology Narrowly Beats Estimates; Shares Fall",
+				"Marvell Certainly Isn't Inspiring Confidence, But I Have 2 Trade Ideas",
+				"Markets Waver After Fed Chair Powell Suggests the Fed Could Raise Rates Further",
+				"These Stocks Are Moving the Most Today"
+			]
+		}
+	]
+}

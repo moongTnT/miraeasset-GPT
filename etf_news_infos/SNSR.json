@@ -1,0 +1,69 @@
+{
+	"SNSR_news": [
+		{
+			"stock": "CSCO",
+			"news_titles": [
+				"Cisco: Signpost Reminds Us That Great Things Are Possible Through Collaboration",
+				"Cisco Announces September 2023 Events with the Financial Community",
+				"Is Cisco Stock A Buy On Fiscal 2024 Outlook?",
+				"Climate Finance Tracker: Mapping the Climate Finance Ecosystem",
+				"Possible Bearish Signals With Cisco Systems Insiders Disposing Stock",
+				"3 Things About Zoom Video Communications That Smart Investors Know",
+				"Cisco and Nutanix Forge Global Strategic Partnership to Simplify Hybrid Multicloud and Fuel Business Transformation",
+				"2 Financially Strong Tech Names With Market-Beating Yields"
+			]
+		},
+		{
+			"stock": "QCOM",
+			"news_titles": [
+				"Stocks in September: Have your shopping list ready, strategist says",
+				"Qualcomm's Thinkabit Lab Encourages Future Inventors To Integrate Sustainable Design",
+				"HP Reports Tonight, Giving Insight Into PC Market, Microsoft",
+				"Apple partner Globalstar taps former Qualcomm exec Jacobs as CEO",
+				"When Should You Buy QUALCOMM Incorporated (NASDAQ:QCOM)?",
+				"Chip stocks: Why Secretary Raimondo’s China visit matters",
+				"Qualcomm and FIRST Are Increasing Access to STEM Education",
+				"Weekly Roundup"
+			]
+		},
+		{
+			"stock": "IBM",
+			"news_titles": [
+				"IBM (IBM) Gains But Lags Market: What You Should Know",
+				"The Argus High-Yield Model Portfolio",
+				"Kellogg's Good Company/Bad Company Spin-Off Is Tough to Swallow",
+				"IBM Receives FedRAMP Authorization for its Federal HR Shared Services Solution",
+				"15 Highest Paying Countries for Economists",
+				"Fujifilm and IBM Develop 50TB Native Tape Storage System, Featuring World's Highest Data Storage Tape Capacity(1)",
+				"The Zacks Analyst Blog Highlights Alphabet, Roche Holding, Honeywell International, IBM and The Goldman Sachs",
+				"IBM Unveils Enterprise-Focused Advanced AI Platform Watsonx"
+			]
+		},
+		{
+			"stock": "GSAT",
+			"news_titles": [
+				"Former Qualcomm CEO to Lead Company Powering Apple’s Satellite-Text Service",
+				"Globalstar Inc's Meteoric Rise: Unpacking the 29% Surge in Just 3 Months",
+				"Apple partner Globalstar taps former Qualcomm exec Jacobs as CEO",
+				"Globalstar Appoints Dr. Paul Jacobs as Chief Executive Officer; Announces Agreement to License XCOM Labs Technology",
+				"Globalstar, Inc. (AMEX:GSAT) Q2 2023 Earnings Call Transcript",
+				"7 Penny Stocks Nearing Super Attractive Entry Points",
+				"Q2 2023 Globalstar Inc Earnings Call",
+				"Globalstar (GSAT) Reports Break-Even Earnings for Q2"
+			]
+		},
+		{
+			"stock": "JCI",
+			"news_titles": [
+				"Got $2,000? Here Are 3 Smart Stocks To Buy Now",
+				"Johnson Controls Announces Reference Yields and Upsize for Its Cash Tender Offers for Its Senior Notes",
+				"Johnson Controls Announces Early Results of Its Cash Tender Offers for Its Senior Notes",
+				"The 7 Most Undervalued Industrial Stocks to Buy Now: August 2023",
+				"Is Johnson Controls International PLC Modestly Undervalued?",
+				"Is Johnson Controls Stock a Buy?",
+				"Johnson Controls appoints Marc Vandiepenbeeck as vice president and president, Building Solutions EMEALA",
+				"Johnson Controls Announces Cash Tender Offers for up to $100 million in Aggregate Principal Amount of Senior Notes"
+			]
+		}
+	]
+}

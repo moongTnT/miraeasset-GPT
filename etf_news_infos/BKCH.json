@@ -1,0 +1,69 @@
+{
+	"BKCH_news": [
+		{
+			"stock": "NVDA",
+			"news_titles": [
+				"Biden administration restricting Nvidia’s sales of AI chips to some countries in Middle East",
+				"AI startup AI21 Labs valued at $1.4 billion after latest fund raise",
+				"AI startup AI21 Labs valued at $1.4 bln after latest fund raise",
+				"Nvidia Partner Expects AI Server Sales to Double in 2024",
+				"5 Monopoly Stocks At the Top of Their Game",
+				"AI boom has brought us triple-digit growth: Hewlett Packard Enterprise CEO",
+				"Economy: We have a ‘goldilocks scenario,’ strategist says",
+				"Mastercard & Visa, HP Inc., Nvidia's all-time high: Top Stocks"
+			]
+		},
+		{
+			"stock": "PYPL",
+			"news_titles": [
+				"Venmo lets you gift money to your loved ones with special Hallmark greeting cards",
+				"Should You Buy Adyen Stock After Its 40% Fall?",
+				"Cryptocurrencies Likely to Stay Rangebound: 5 Stocks in Focus",
+				"2 No-Brainer Growth Stocks to Buy With $2,000 Right Now and Hold Long-Term",
+				"Zacks Market Edge Highlights: NVIDIA, Microsoft, Tesla, PayPal and Coinbase Global",
+				"How PayPal is using AI to combat fraud, and make it easier to pay",
+				"One PayPal Holdings Insider Raised Their Stake In The Previous Year",
+				"Could PayPal's New CEO Send the Stock Skyrocketing?"
+			]
+		},
+		{
+			"stock": "SQ",
+			"news_titles": [
+				"15 Biggest Startup Failures in the World",
+				"If You Invested $1,000 in Block 5 Years Ago, This Is How Much You Would Have Today",
+				"With 61% institutional ownership, Block, Inc. (NYSE:SQ) is a favorite amongst the big guns",
+				"5 Things for Investors to Know About Block Stock",
+				"1 Reason Block Stock Is a Screaming Buy, and 1 Reason to Avoid It Like the Plague",
+				"Prediction: These 2 Phenomenal Cathie Wood Stocks Down 80%-81% Could Make You Richer in a New Bull Market",
+				"3 Cathie Wood Stocks to Buy and Hold for 10 Years",
+				"Buy the Dip With Block Stock? Not So Fast!"
+			]
+		},
+		{
+			"stock": "HOOD",
+			"news_titles": [
+				"Robinhood Markets, Inc. to Present at the Goldman Sachs Communacopia & Technology Conference on September 7, 2023",
+				"Robinhood’s Crypto Wallet Adds Bitcoin and Dogecoin",
+				"Robinhood and Jump Crypto no longer in business together amid the latter’s U.S. exit",
+				"Robinhood, Jump Trading End Crypto Partnership, CoinDesk Reports",
+				"Cryptocurrency Prices And News: Bitcoin Rallies After Court Backs Grayscale ETF",
+				"Robinhood and Jump Trading No Longer Have Crypto Partnership: Source",
+				"Robinhood Money Drills Partners with Texas Christian University",
+				"5 Cryptocurrency Stocks in Focus Amid Growing Economic Uncertainty"
+			]
+		},
+		{
+			"stock": "COIN",
+			"news_titles": [
+				"Grayscale CEO predicts a crypto environment 'we haven’t seen before' after legal win",
+				"The Protocol: Friend.tech Fades as Crypto Craze, but Ethereum Is Scaling",
+				"Why the Grayscale Win Is Better for Bitcoin and MicroStrategy Than Coinbase",
+				"Cathie Wood Stocks: Tesla Stock Slides On Sell Rating",
+				"Excited About the Recent Uptrend of Coinbase? Don't Be",
+				"Midday movers: HP, HP Enterprise, Nvidia, Coinbase and more",
+				"A Bitcoin ETF Is Closer Than Ever. What It Means for Crypto and Coinbase",
+				"Coinbase Stock Soars on Bitcoin ETF Win. One Analyst Says It Should Drop Instead."
+			]
+		}
+	]
+}

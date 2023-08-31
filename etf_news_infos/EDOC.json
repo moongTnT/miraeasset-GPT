@@ -1,0 +1,69 @@
+{
+	"EDOC_news": [
+		{
+			"stock": "SENS",
+			"news_titles": [
+				"Q2 2023 Senseonics Holdings Inc Earnings Call",
+				"Senseonics Holdings (SENS) Reports Q2 Loss, Misses Revenue Estimates",
+				"Senseonics: Q2 Earnings Snapshot",
+				"Senseonics Holdings, Inc. Reports Second Quarter 2023 Financial Results",
+				"10x Genomics (TXG) Reports Q2 Loss, Tops Revenue Estimates",
+				"Senseonics Holdings, Inc. Schedules Second Quarter 2023 Earnings Release and Conference Call for August 10, 2023 at 4:30 p.m. Eastern Time",
+				"3 Penny Stocks to Buy to Turn $5,000 into $1 Million",
+				"Senseonics Announces Equity Grants To Employees Under Inducement Plan"
+			]
+		},
+		{
+			"stock": "DXCM",
+			"news_titles": [
+				"Stocks Keep Up Summer Rally Ahead of Inflation Data",
+				"Is Trending Stock DexCom, Inc. (DXCM) a Buy Now?",
+				"Dexcom Announces Upcoming Conference Presentations",
+				"Is DexCom (DXCM) Significantly Undervalued? A Comprehensive Analysis",
+				"Dexcom Appoints Rimma Driscoll to Board of Directors",
+				"1 Stock-Split Stock Billionaires Are Buying Hand Over Fist and 1 Unexpected Stock-Split Stock They're Selling",
+				"Estimating The Intrinsic Value Of DexCom, Inc. (NASDAQ:DXCM)",
+				"Is DexCom Inc (DXCM) Modestly Undervalued? A Comprehensive Valuation Analysis"
+			]
+		},
+		{
+			"stock": "RCM",
+			"news_titles": [
+				"One R1 RCM Insider Raised Their Stake In The Previous Year",
+				"Redfin upgraded, CSSE downgraded: Wall Street's top analyst calls",
+				"Compared to Estimates, R1 RCM Inc. (RCM) Q2 Earnings: A Look at Key Metrics",
+				"R1 RCM Inc. (RCM) Reports Break-Even Earnings for Q2",
+				"R1 RCM Reports Second Quarter 2023 Results",
+				"R1 RCM to Present at Upcoming Investor Conferences",
+				"12 Best NASDAQ Stocks Under $20",
+				"Positive week for R1 RCM Inc. (NASDAQ:RCM) institutional investors who lost 23% over the past year"
+			]
+		},
+		{
+			"stock": "ME",
+			"news_titles": [
+				"Better AI Biotech Stock: Recursion Pharmaceuticals vs. 23andMe",
+				"23andMe: DNA testing kit company needs drug discovery",
+				"Why 23andMe Holding Stock Plummeted by 13% Today",
+				"23andMe Reports FY2024 First Quarter Financial Results",
+				"23andMe to Report FY2024 First Quarter Financial Results",
+				"23andMe Releases New FDA-Cleared Genetic Report on Simvastatin, a Commonly Prescribed Statin",
+				"Shake Shack Stock Blows Through the Roof. 23andMe Tumbles.",
+				"23andMe Releases New Report Revealing Genetic Likelihood of Experiencing Panic Attacks"
+			]
+		},
+		{
+			"stock": "A",
+			"news_titles": [
+				"Vinfast 'certainly is' a new meme stock: Here's why",
+				"VinFast: The Vietnamese EV maker with a sky-high valuation and volatile trading",
+				"Sunrun, HP Enterprise, VinFast: Trending Tickers",
+				"Short-seller Jim Chanos called Vietnamese carmaker VinFast a $200 billion ‘meme stock’—the price collapsed hours later",
+				"Stocks to Watch Tuesday: Hawaiian Electric, Best Buy, NIO, Alphabet",
+				"Calculating The Intrinsic Value Of Agilent Technologies, Inc. (NYSE:A)",
+				"XPeng, VinFast, Hostess Brands: Trending Stocks",
+				"Why VinFast Auto Stock Jumped Again Today"
+			]
+		}
+	]
+}

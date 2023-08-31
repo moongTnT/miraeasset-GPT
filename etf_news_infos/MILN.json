@@ -1,0 +1,69 @@
+{
+	"MILN_news": [
+		{
+			"stock": "AAPL",
+			"news_titles": [
+				"15 Most Bike Friendly Cities in the US",
+				"Hollywood strikes, subscriber churn, sports rights: Big media woes",
+				"Apple’s Impact Accelerator picks 2 Bay Area sustainability startups",
+				"Why 3D Systems Stock Zoomed Higher Today",
+				"5 Monopoly Stocks At the Top of Their Game",
+				"Top Research Reports for Apple, Broadcom & Caterpillar",
+				"Economy: We have a ‘goldilocks scenario,’ strategist says",
+				"Apple Stock on Pace for Worst Month of the Year"
+			]
+		},
+		{
+			"stock": "GOOGL",
+			"news_titles": [
+				"Privacy activist Schrems files complaints against Google's Fitbit",
+				"Google introduces generative AI to Search in India, Japan",
+				"Google's AI-powered search expands outside U.S. to India and Japan",
+				"Google is bringing its generative AI search engine to India, Japan",
+				"Factbox-Big names in Big Tech to attend AI forum of US Senate's Schumer",
+				"Nvidia Partner Expects AI Server Sales to Double in 2024",
+				"Don’t want to go to a work meeting? Google is testing an A.I. tool that can go for you",
+				"Alphabet (GOOGL) Outpaces Stock Market Gains: What You Should Know"
+			]
+		},
+		{
+			"stock": "AMZN",
+			"news_titles": [
+				"Amazon, Shopify Strike Deal to Open Amazon Logistics to Sellers",
+				"Shopify says merchants can use Amazon's 'Buy with Prime' option",
+				"UPDATE 1-Shopify says merchants can use Amazon's 'Buy with Prime' option",
+				"Amazon Announces App Integration for Merchants to Enable Buy with Prime on Shopify Stores",
+				"Economy: We have a ‘goldilocks scenario,’ strategist says",
+				"You Won't Believe What Amazon CEO Said About Artificial Intelligence (AI)",
+				"Nvidia just hit record highs, but stock may still be 'cheap,' says analyst",
+				"Amazon's new move in battle with Walmart and Target may anger you"
+			]
+		},
+		{
+			"stock": "META",
+			"news_titles": [
+				"Economy: We have a ‘goldilocks scenario,’ strategist says",
+				"Searching For Top AI Stocks? Look Beyond Nvidia And Google",
+				"Nvidia is the AI king, but threats to its reign abound",
+				"Do Options Traders Know Something About Meta (META) Stock We Don't?",
+				"UPDATE 1-Meta pins pro-China influence campaign on Chinese law enforcement",
+				"Meta, Microsoft, and Tesla Are Driving Demand for Nvidia's Products",
+				"Meta rejects recommendation to suspend former Cambodia PM from Facebook",
+				"Meta Uncovers Largest-Ever Chinese Influence Network"
+			]
+		},
+		{
+			"stock": "UBER",
+			"news_titles": [
+				"Australian gig workers to get right to negotiate minimum pay, conditions",
+				"Uber is doing its part to help Floridians caught in Hurricane Idalia",
+				"Nova (NVMI) PRISM 2 Selected for Packaging Applications",
+				"Wall Street Analysts Think Uber (UBER) Is a Good Investment: Is It?",
+				"15 Highest Paying Countries for Economists",
+				"Uber offers free rides to evacuation shelters during Hurricane Idalia",
+				"These Are The Best Robinhood Stocks To Buy Or Watch Now",
+				"3 Companies Enjoying Remarkable Revenue Growth"
+			]
+		}
+	]
+}

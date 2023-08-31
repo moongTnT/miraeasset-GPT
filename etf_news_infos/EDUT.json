@@ -1,0 +1,63 @@
+{
+	"EDUT_news": [
+		{
+			"stock": "TAL",
+			"news_titles": [
+				"Analyst Report: TAL Education Group",
+				"A Look At The Intrinsic Value Of TAL Education Group (NYSE:TAL)",
+				"20 Biggest EdTech Companies in the World",
+				"Strong week for TAL Education Group (NYSE:TAL) shareholders doesn't alleviate pain of three-year loss",
+				"TAL Education: Fiscal Q1 Earnings Snapshot",
+				"TAL Education Group Announces Unaudited Financial Results for the First Fiscal Quarter Ended May 31, 2023",
+				"Presentation Times and Schedule for Participating Companies Now Posted on the Conference Website for 28th Annual EnerCom Denver - The Energy Investment Conference, to be held August 13-16, 2023, in Denver, Colorado",
+				"Ray Dalio’s China Stocks"
+			]
+		},
+		{
+			"stock": "ZM",
+			"news_titles": [
+				"Cathie Wood Stocks: Tesla Stock Slides On Sell Rating",
+				"3 Things About Zoom Video Communications That Smart Investors Know",
+				"1 Reason to Sell Zoom Stock, and 1 Reason to Watch It and Be Patient",
+				"Cathie Wood Snaps Up Shares Of Zoom Video Communications Inc., Others",
+				"3 Things About Zoom That Smart Investors Know",
+				"5 big earnings hits: Nvidia's bang-up Q2; retail's bottom-line beats",
+				"Top-Rated Stocks to Buy After Earnings Outside of Nvidia (NVDA)",
+				"Better Stock Buy: Zoom Video Communications vs. Cisco Systems"
+			]
+		},
+		{
+			"stock": "EDU",
+			"news_titles": [
+				"Have Investors Become Too Bearish on China? 3 Top Ranked Stocks to Watch",
+				"Alibaba scores a win with Taobao debut of China's 'most famous teacher' as live-streaming e-commerce race heats up",
+				"Institutional investors control 65% of New Oriental Education & Technology Group Inc. (NYSE:EDU) and were rewarded last week after stock increased 8.4%",
+				"New Oriental (EDU) is on the Move, Here's Why the Trend Could be Sustainable",
+				"20 Biggest EdTech Companies in the World",
+				"16 Easiest Countries To Get PR For International Students",
+				"New Oriental Education (EDU) Is Up 2.37% in One Week: What You Should Know",
+				"Does New Oriental (EDU) Have the Potential to Rally 28.1% as Wall Street Analysts Expect?"
+			]
+		},
+		{
+			"stock": "GOTU",
+			"news_titles": [
+				"Gaotu Techedu Announces Second Quarter of 2023 Unaudited Financial Results",
+				"Gaotu Techedu to Report Second Quarter 2023 Financial Results on August 30, 2023"
+			]
+		},
+		{
+			"stock": "CHGG",
+			"news_titles": [
+				"Here’s Why Artisan Partners Small Cap Fund Decided to Exit Chegg (CHGG)",
+				"These Are the ONLY 3 Tech Stocks to Consider in August 2023",
+				"7 Very Oversold Tech Stocks to Buy Right Now",
+				"Billionaire Ken Fisher and Corporate Insiders Are Betting On These Stocks",
+				"Chegg Shares Rally on Expanded Buyback Plan",
+				"Cisco Systems, Chegg rise; Hawaiian Electric, CVS Health fall, Thursday, 8/17/2023",
+				"Chegg rises after edtech's board approves $200 million increase in share buybacks",
+				"Chegg Announces Increased Authorization of Securities Repurchase Program by $200 million"
+			]
+		}
+	]
+}

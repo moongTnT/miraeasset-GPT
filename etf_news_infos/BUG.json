@@ -1,0 +1,69 @@
+{
+	"BUG_news": [
+		{
+			"stock": "FTNT",
+			"news_titles": [
+				"5 Monopoly Stocks At the Top of Their Game",
+				"Is Now An Opportune Moment To Examine Fortinet, Inc. (NASDAQ:FTNT)?",
+				"Fortinet Wins Google Cloud Technology Partner of the Year Award for Security – Identity & Endpoint Protection",
+				"Fortinet Expands its SASE Solution to Bring Cloud-Delivered Enterprise-Grade Protection to Microbranches",
+				"3 Growth Stocks on My Buy List",
+				"2 Cybersecurity Stocks You Can Buy and Hold for the Next Decade",
+				"Palo Alto Networks Is Doing Just Fine in the New Cybersecurity Growth Supercycle",
+				"Want to Get Rich? 3 Game-Changing Tech Stocks to Buy Right Now"
+			]
+		},
+		{
+			"stock": "GEN",
+			"news_titles": [
+				"The Next Generation of Social Impact Professionals",
+				"Helping Women in India Launch Their Cybersecurity Careers",
+				"15 Most Undervalued Tech Stocks To Buy According To Hedge Funds",
+				"The 3 Most Undervalued Cybersecurity Stocks to Buy Now: August 2023",
+				"Norton Preps Parents with Crash Course in Best Back-to-School Practices",
+				"Is It Smart To Buy Gen Digital Inc. (NASDAQ:GEN) Before It Goes Ex-Dividend?",
+				"Tackling Domestic Abuse in the Digital Realm",
+				"Making Cyber Safety Education Accessible at School"
+			]
+		},
+		{
+			"stock": "PANW",
+			"news_titles": [
+				"Unveiling Palo Alto Networks (PANW)'s Value: Is It Really Priced Right? A Comprehensive Guide",
+				"Sunrun upgraded, Texas Instruments downgraded: Wall Street's top analyst calls",
+				"Tech Stocks Will Likely Soar in 2023. Here Are 3 Hot Stocks to Buy to Capitalize on Their Potential",
+				"HP: Fiscal Q3 Earnings Snapshot",
+				"3 Companies Enjoying Remarkable Revenue Growth",
+				"Palo Alto Networks Wins Three 2023 Google Cloud Partner of the Year Awards for Security",
+				"Is It Too Late to Buy BlackBerry Stock?",
+				"Decoding Palo Alto Networks Inc (PANW)'s Future Performance: A Deep Dive into Key Metrics"
+			]
+		},
+		{
+			"stock": "S",
+			"news_titles": [
+				"11 Best Mining Penny Stocks to Buy Now",
+				"SentinelOne scraps Wiz partnership nearly a week after bid interest",
+				"Closing prices for crude oil, gold and other commodities",
+				"NEWSMAKER-Gabon military coup may end Ali Bongo's long-running ruling dynasty",
+				"Asia Closes Higher, Europe Trading Lower Following US Futures - Global Markets Today While US Was Sleeping",
+				"Implied Volatility Surging for Hecla Mining (HL) Stock Options",
+				"Will Silver ETFs Outshine Gold ETFs Ahead?",
+				"SentinelOne® Launches on Google Cloud Marketplace"
+			]
+		},
+		{
+			"stock": "CRWD",
+			"news_titles": [
+				"CrowdStrike (CRWD) Q2 2024 Earnings Call Transcript",
+				"Dow Jones Futures Rise: Salesforce Jumps, Four Titans Near Buy Points; Inflation Data Due",
+				"Analyst Report: CrowdStrike Holdings, Inc.",
+				"Best Stocks to Buy Now: Is CrowdStrike Stock a Buy After Earnings? CRWD Stock Analysis",
+				"CrowdStrike (CRWD) Q2 Earnings: Taking a Look at Key Metrics Versus Estimates",
+				"CrowdStrike Tops Views, But Shares Dip; Okta Jumps On Solid Beat",
+				"CrowdStrike Raises Forecasts as Earnings Top Estimates",
+				"CrowdStrike lifts forecast for annual revenue, profit on resilient cybersecurity demand"
+			]
+		}
+	]
+}

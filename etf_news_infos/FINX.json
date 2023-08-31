@@ -1,0 +1,69 @@
+{
+	"FINX_news": [
+		{
+			"stock": "PYPL",
+			"news_titles": [
+				"Venmo lets you gift money to your loved ones with special Hallmark greeting cards",
+				"Should You Buy Adyen Stock After Its 40% Fall?",
+				"Cryptocurrencies Likely to Stay Rangebound: 5 Stocks in Focus",
+				"2 No-Brainer Growth Stocks to Buy With $2,000 Right Now and Hold Long-Term",
+				"Zacks Market Edge Highlights: NVIDIA, Microsoft, Tesla, PayPal and Coinbase Global",
+				"How PayPal is using AI to combat fraud, and make it easier to pay",
+				"One PayPal Holdings Insider Raised Their Stake In The Previous Year",
+				"Could PayPal's New CEO Send the Stock Skyrocketing?"
+			]
+		},
+		{
+			"stock": "SOFI",
+			"news_titles": [
+				"A Bull Market Is Coming: 3 Growth Stocks to Buy Before They Skyrocket",
+				"If You'd Invested $1,000 in SoFi 1 Year Ago, This Is How Much You Would Have Today",
+				"3 Top Growth Stocks to Buy Right Now",
+				"Plaid Adds Direct Deposit Switching Services Partner",
+				"3 Meme Stocks That Are Actually Solid Long-Term Picks",
+				"Don’t Be Discouraged by SoFi Stock’s Recent Retreat",
+				"Don’t Sleep on These 3 Stocks That Will Mint Millionaires",
+				"2 No-Brainer Stocks to Buy Right Now for Less than $10"
+			]
+		},
+		{
+			"stock": "LU",
+			"news_titles": [
+				"16 Most Undervalued Penny Stocks To Invest In",
+				"Lufax Holding's (NYSE:LU) Dividend Is Being Reduced To CN¥0.039",
+				"Lufax Holding Ltd (NYSE:LU) Analysts Are More Bearish Than They Used To Be",
+				"Lufax Holding Ltd (NYSE:LU) Q2 2023 Earnings Call Transcript",
+				"Q2 2023 Lufax Holding Ltd Earnings Call",
+				"Why Lufax Holding Stock Dropped Today",
+				"Lufax Holding Ltd. Sponsored ADR (LU) Q2 Earnings Top Estimates",
+				"Lufax Reports Second Quarter 2023 Financial Results"
+			]
+		},
+		{
+			"stock": "FI",
+			"news_titles": [
+				"Why Hurricane Idalia won't move oil prices much",
+				"Rising diesel prices a 'hidden tax' on consumers as energy stokes inflation worries",
+				"Magellan Midstream-ONEOK merger creates 'more ways to win' in energy: CEO",
+				"Gas prices ahead of Labor Day: Where is demand hitting the hardest?",
+				"Jobs report, China slowdown, oil demand: 3 Things",
+				"Fiserv and Akoya Meet Consumer Demand for Anytime, Anywhere Financial Information with New Data Sharing Agreement",
+				"Q3 2023 Altigen Communications Inc Earnings Call",
+				"Why oil prices need to shoot back above $100 per barrel"
+			]
+		},
+		{
+			"stock": "FIS",
+			"news_titles": [
+				"Is Fidelity National Information Services (FIS) Too Good to Be True? A Comprehensive Analysis ...",
+				"Decoding Fidelity National Information Services Inc's Performance: A Deep Dive into the Metrics",
+				"Unmasking the Value Trap: A Deep Dive into Fidelity National Information Services (FIS)",
+				"Netflix upgraded, Olaplex downgraded: Wall Street's top analyst calls",
+				"FIS Announces Appointment of James Kehoe as Chief Financial Officer",
+				"Mastercard (MA) Plans to Buy Minority Stake in MTN Group",
+				"Consumers Want an All-in-One Platform to Manage Their Finances While Businesses Invest in Future Forward Tech, According to FIS Study",
+				"FIS Named Top 200 Fintech Company for Digital Banking Solutions in Inaugural CNBC Ranking"
+			]
+		}
+	]
+}

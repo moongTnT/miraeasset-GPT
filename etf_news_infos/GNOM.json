@@ -1,0 +1,69 @@
+{
+	"GNOM_news": [
+		{
+			"stock": "GILD",
+			"news_titles": [
+				"The Argus High-Yield Model Portfolio",
+				"Gilead Sciences: Fifth Anniversary of COMPASS: Helping Address the HIV Epidemic in the U.S. South",
+				"Nearing Retirement? These Stocks Will Pay You For Life",
+				"12 Undervalued Wide Moat Stocks To Invest In",
+				"Here's Why We Think Gilead Sciences (NASDAQ:GILD) Is Well Worth Watching",
+				"Gilead (GILD) Gets FDA Nod for Veklury for Hepatic Impairment",
+				"The Zacks Analyst Blog Highlights Regeneron Pharmaceuticals, Gilead Sciences, Novavax, Apellis Pharmaceuticals and Fulcrum Therapeutics",
+				"FDA Approves Veklury® (Remdesivir) to Treat COVID-19 in People With Mild to Severe Hepatic Impairment With no Dose Adjustment"
+			]
+		},
+		{
+			"stock": "E",
+			"news_titles": [
+				"Canadian Engineers Make \"Revolutionary\" Hydrogen Breakthrough",
+				"Junk Offsets Are Feeding Wave of Greenwashing, Study Shows",
+				"Here's Why Hold Strategy is Apt for Eni (E) Stock Right Now",
+				"Eni (E) Shares Dip 1.1% Despite Reporting Q2 Earnings Beat",
+				"Eni SpA: Q2 Earnings Snapshot",
+				"Eni (E) to Acquire Chevron's Stake in Indonesia Project",
+				"Eni (E) Collaborates With Maritime Majors for Decarbonization",
+				"Eni (E) JV Signs Deal to Develop Photovoltaic Projects in Italy"
+			]
+		},
+		{
+			"stock": "MRNA",
+			"news_titles": [
+				"Is Moderna Stock A Buy As Covid Hospitalizations — And Its Shares — Rise?",
+				"Moderna to Host Investor Event - R&D Day and Business Updates",
+				"5 Things to Know About the New ‘Pirola’ Variant of Covid",
+				"Invaio achieves first registration for citrus greening solution featuring Trecise™ technology",
+				"18 Best 52-Week Low Stocks To Buy Now",
+				"UPDATE 1-Alnylam to appeal ruling on patents related to Moderna's COVID vaccines",
+				"Alnylam to appeal ruling on patents related to Moderna's COVID vaccines",
+				"Covid Boosters Will Come Later Than Last Year, Despite Rising Hospitalizations"
+			]
+		},
+		{
+			"stock": "A",
+			"news_titles": [
+				"Vinfast 'certainly is' a new meme stock: Here's why",
+				"VinFast: The Vietnamese EV maker with a sky-high valuation and volatile trading",
+				"Sunrun, HP Enterprise, VinFast: Trending Tickers",
+				"Short-seller Jim Chanos called Vietnamese carmaker VinFast a $200 billion ‘meme stock’—the price collapsed hours later",
+				"Stocks to Watch Tuesday: Hawaiian Electric, Best Buy, NIO, Alphabet",
+				"Calculating The Intrinsic Value Of Agilent Technologies, Inc. (NYSE:A)",
+				"XPeng, VinFast, Hostess Brands: Trending Stocks",
+				"Why VinFast Auto Stock Jumped Again Today"
+			]
+		},
+		{
+			"stock": "NVTA",
+			"news_titles": [
+				"Cathie Wood Just Sold Nvidia -- and Bought These 5 Potentially Explosive Growth Stocks Again",
+				"Invitae Hires Industry Veteran Robert Guigley as Chief Commercial Officer",
+				"Why Invitae Stock Is Crashing Today",
+				"Clinical Trial Results Support Genetic Testing of All Patients with Prostate Cancer",
+				"Invitae Announces Selection of Finance Executive Robert Dickey as Interim CFO",
+				"Down 96%, Is Invitae Stock a Buy?",
+				"Invitae (NVTA) Q2 2023 Earnings Call Transcript",
+				"Invitae (NVTA) Reports Q2 Loss, Lags Revenue Estimates"
+			]
+		}
+	]
+}

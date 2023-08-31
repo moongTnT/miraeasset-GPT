@@ -1,0 +1,69 @@
+{
+	"DRIV_news": [
+		{
+			"stock": "AAPL",
+			"news_titles": [
+				"15 Most Bike Friendly Cities in the US",
+				"Hollywood strikes, subscriber churn, sports rights: Big media woes",
+				"Apple’s Impact Accelerator picks 2 Bay Area sustainability startups",
+				"Why 3D Systems Stock Zoomed Higher Today",
+				"5 Monopoly Stocks At the Top of Their Game",
+				"Top Research Reports for Apple, Broadcom & Caterpillar",
+				"Economy: We have a ‘goldilocks scenario,’ strategist says",
+				"Apple Stock on Pace for Worst Month of the Year"
+			]
+		},
+		{
+			"stock": "GOOGL",
+			"news_titles": [
+				"Privacy activist Schrems files complaints against Google's Fitbit",
+				"Google introduces generative AI to Search in India, Japan",
+				"Google's AI-powered search expands outside U.S. to India and Japan",
+				"Google is bringing its generative AI search engine to India, Japan",
+				"Factbox-Big names in Big Tech to attend AI forum of US Senate's Schumer",
+				"Nvidia Partner Expects AI Server Sales to Double in 2024",
+				"Don’t want to go to a work meeting? Google is testing an A.I. tool that can go for you",
+				"Alphabet (GOOGL) Outpaces Stock Market Gains: What You Should Know"
+			]
+		},
+		{
+			"stock": "MSFT",
+			"news_titles": [
+				"Baidu, SenseTime Among First Firms to Win China AI Approval",
+				"Earnings Quality: The Pillar of Sound Value Investing",
+				"Google is bringing its generative AI search engine to India, Japan",
+				"15 Biggest Startup Failures in the World",
+				"Factbox-Big names in Big Tech to attend AI forum of US Senate's Schumer",
+				"PS5 Sales by Country: Top 15 Countries",
+				"Don’t want to go to a work meeting? Google is testing an A.I. tool that can go for you",
+				"Microsoft (MSFT) Gains But Lags Market: What You Should Know"
+			]
+		},
+		{
+			"stock": "INTC",
+			"news_titles": [
+				"Nvidia is the AI king, but threats to its reign abound",
+				"The Zacks Analyst Blog Highlights Exxon Mobil, The Home Depot, Intel, NextEra Energy and Vertex Pharmaceuticals",
+				"Intel's Efficient 144-Core Monster Is Coming Next Year",
+				"Alphabet Focuses on Efficiency with New AI Chip",
+				"The 1 Figure in Nvidia's Quarterly Report No One Is Talking About That Has the Potential to Sink the Ship",
+				"Why Intel Stock Inched Higher Today",
+				"Top Analyst Reports for Exxon Mobil, Home Depot & Intel",
+				"ARM IPO and Recent Acquisition Updates That Semiconductor Investors Should Know About"
+			]
+		},
+		{
+			"stock": "F",
+			"news_titles": [
+				"15 Most Bike Friendly Cities in the US",
+				"EV Boom Remakes Rural Towns in the American South",
+				"VinFast: The Vietnamese EV maker with a sky-high valuation and volatile trading",
+				"Rivian CEO Gets a Raise. How It Compares With Tesla’s Elon Musk Makes.",
+				"The Argus High-Yield Model Portfolio",
+				"Bloomberg Predicts Peak Oil Demand In 2027",
+				"AI Steers the Auto Industry Toward Revolutionary Lanes",
+				"20 Countries with the Most Electric Vehicles in 2023"
+			]
+		}
+	]
+}
