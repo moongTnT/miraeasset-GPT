@@ -22,4 +22,11 @@ def get_news_dict_list(*args, **kwargs):
 
     return data
 
+def get_llm_answer(*args, **kwargs):
 
+    etf_tkr = kwargs.pop('etf_tkr', 'AIQ')
+        
+    with open(f'./etf_llm_summary/{etf_tkr}.json', 'r') as file:
+        data = json.load(file)
+
+    return data

@@ -4,7 +4,7 @@ from core.gpt_semantic_search import get_vectordb, get_filter, get_similar_symbo
 
 from core.financial_filtering import get_lowest_PBR_stks, get_momentums
 
-from core.get_common_issues import get_news_dict_list
+from core.get_common_issues import get_news_dict_list, get_llm_answer
 
 from starlette.middleware.cors import CORSMiddleware
 import uvicorn
@@ -78,39 +78,9 @@ def get_stk_filtering(etf_tkr: str = "AIQ"):
         
     return json_data
 
-from langchain.prompts import ChatPromptTemplate
-from langchain.prompts.chat import SystemMessage, HumanMessagePromptTemplate
-from langchain.chat_models import ChatOpenAI
-import os
-
-
 @app.get('/common_issues')
 def get_common_issues(etf_tkr: str = "AIQ"):
-
-    with open('conf.json', 'r') as f:
-        json_data = json.load(f)
-    
-    os.environ['OPENAI_API_KEY'] = json_data['API_KEY']
-
-    news_data = str(get_news_dict_list(etf_tkr=etf_tkr))
-
-    template = ChatPromptTemplate.from_messages(
-        [
-            SystemMessage(
-                content=(
-                    # "You are now acting as an intelligent fund manager who is fluent in both English and Korean. I will provide you with news headlines for 8 different stock tickers. Your task is to identify the common themes or keywords that appear across all these different tickers, not just within each individual one. Please summarize these overarching themes in Korean, in a coherent format limited to 10 sentences. Ensure your response is tailored to be informative for stock investors and is presented in a professional manner."
-                    "You are now acting as an intelligent fund manager fluent in both English and Korean. I will provide you with news headlines of different stock tickers. Your task is to identify common themes that appear across all these different tickers, not just within each individual one. Please summarize these overarching themes in Korean, in a coherent format limited to 10 sentences. Ensure your response is tailored to be informative for stock investors and is presented in a professional manner. Additionally, please conclude your answer with a noun. don't answer in bullet points"
-                )
-            ),
-            HumanMessagePromptTemplate.from_template("{text}"),
-        ]
-    )
-
-    llm = ChatOpenAI(model="gpt-3.5-turbo")
-    
-    ret = llm(template.format_messages(text=news_data))
-
-    return ret
+    return get_llm_answer(etf_tkr=etf_tkr)
 
 
 if __name__ == "__main__":
