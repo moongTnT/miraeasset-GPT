@@ -34,22 +34,22 @@ def get_stk_filtering(etf_tkr: str = "AIQ"):
         
         json_data = json.load(f)
         
-    for i, subcateogry in enumerate(json_data['subcategory_lists']):
+    # for i, subcateogry in enumerate(json_data['subcategory_lists']):
         
-        keyword = subcateogry["description"]
+    #     keyword = subcateogry["description"]
         
-        similar_stk_list = get_similar_symbols(
-            vectordb=vectordb,
-            keyword=keyword,
-            filter_list=filter_list,
-            k=5,
-        )
+    #     #  여기서 병목 현상 걸리는 이슈 발생
+    #     similar_stk_list = get_similar_symbols( 
+    #         vectordb=vectordb,
+    #         keyword=keyword,
+    #         filter_list=filter_list,
+    #         k=5,
+    #     )
         
-        subcateogry['stk_list'] = similar_stk_list
+    #     subcateogry['stk_list'] = similar_stk_list
         
-        json_data['subcategory_lists'][i] = subcateogry
+    #     json_data['subcategory_lists'][i] = subcateogry
         
-    
     
     docs_list = vectordb.get(where={'$or': filter_list})
 
@@ -62,8 +62,6 @@ def get_stk_filtering(etf_tkr: str = "AIQ"):
     
     value_dict["stk_list"] = [s[1] for s in lowest_PBR_stks_tuple_list]
         
-    
-    
     momentum_dict = {
         "title": "꾸준히 우상향 하는",
         "description": "모멘텀 좋은 기업들입니다."
