@@ -1,1 +1,2 @@
 2023-09-04 16:02:50 [INFO] [httptools_impl.py] [23545] 127.0.0.1:55782 - "[1mGET / HTTP/1.1[0m" [31m404 Not Found[0m
+2023-09-20 17:39:04 [INFO] [httptools_impl.py] [5923] 127.0.0.1:33166 - "[1mGET /.well-known/pki-validation/E3A1B108EB8EA884704FFBE17DBC29F4.txt HTTP/1.1[0m" [32m200 OK[0m

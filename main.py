@@ -1,4 +1,5 @@
 from fastapi import FastAPI
+from fastapi.responses import PlainTextResponse
 
 from core.gpt_semantic_search import get_vectordb, get_filter, get_similar_symbols
 
@@ -22,6 +23,16 @@ app.add_middleware(
 )
 
 import json
+
+@app.get('/.well-known/pki-validation/E3A1B108EB8EA884704FFBE17DBC29F4.txt')
+def get_pki_test():
+    file_name = "E3A1B108EB8EA884704FFBE17DBC29F4.txt"
+
+    file_path = f"./{file_name}"
+
+    file = open(file_path, "r")
+
+    return PlainTextResponse(file.read())
 
 @app.get("/stk_filtering")
 def get_stk_filtering(etf_tkr: str = "AIQ"):
