@@ -1,2 +1,7 @@
 2023-09-04 16:02:50 [INFO] [httptools_impl.py] [23545] 127.0.0.1:55782 - "[1mGET / HTTP/1.1[0m" [31m404 Not Found[0m
 2023-09-20 17:39:04 [INFO] [httptools_impl.py] [5923] 127.0.0.1:33166 - "[1mGET /.well-known/pki-validation/E3A1B108EB8EA884704FFBE17DBC29F4.txt HTTP/1.1[0m" [32m200 OK[0m
+2023-10-08 12:27:04 [INFO] [httptools_impl.py] [7682] 127.0.0.1:43740 - "[1mGET / HTTP/1.1[0m" [31m404 Not Found[0m
+2023-10-08 12:27:04 [INFO] [httptools_impl.py] [7682] 127.0.0.1:43740 - "[1mGET /favicon.ico HTTP/1.1[0m" [31m404 Not Found[0m
+2023-10-08 12:27:08 [INFO] [httptools_impl.py] [7682] 127.0.0.1:43740 - "[1mGET /stk_filtering?etf_tkr=AIQ HTTP/1.1[0m" [91m500 Internal Server Error[0m
+2023-10-08 12:27:13 [INFO] [httptools_impl.py] [7682] 127.0.0.1:43748 - "[1mGET /stk_filtering?etf_tkr=BKCH HTTP/1.1[0m" [32m200 OK[0m
+2023-10-08 12:27:17 [INFO] [httptools_impl.py] [7682] 127.0.0.1:43748 - "[1mGET /stk_filtering?etf_tkr=AIQ HTTP/1.1[0m" [91m500 Internal Server Error[0m
